@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Số đối của số -7 là:",
+      "a": ["7", "-7", "0", "1/7"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "q": "Số đối của số 15 là:",
+      "a": ["15", "-15", "0", "51"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "q": "Số nguyên âm nhỏ nhất có 1 chữ số là:",
+      "a": ["-1", "-9", "0", "1"],
+      "correct": 1
+    },
+    {
+      "id": 4,
+      "q": "Tổng của hai số nguyên đối nhau bằng:",
+      "a": ["1", "-1", "0", "10"],
+      "correct": 2
+    },
+    {
+      "id": 5,
+      "q": "Giá trị tuyệt đối của -10 là:",
+      "a": ["-10", "10", "0", "-1"],
+      "correct": 1
+    },
+    {
+      "id": 6,
+      "q": "Giá trị tuyệt đối của số 0 là:",
+      "a": ["0", "1", "-1", "Không xác định"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "So sánh -5 và -3:",
+      "a": ["-5 > -3", "-5 < -3", "-5 = -3", "Không so sánh được"],
+      "correct": 1
+    },
+    {
+      "id": 8,
+      "q": "Số nguyên liền sau của số -1 là:",
+      "a": ["-2", "0", "1", "-3"],
+      "correct": 1
+    },
+    {
+      "id": 9,
+      "q": "Số nguyên liền trước của số -5 là:",
+      "a": ["-4", "-6", "0", "-5"],
+      "correct": 1
+    },
+    {
+      "id": 10,
+      "q": "Kết quả của phép tính (-2) + (-3) là:",
+      "a": ["5", "-5", "1", "-1"],
+      "correct": 1
+    },
+    {
+      "id": 11,
+      "q": "Kết quả của phép tính (-10) + (-20) là:",
+      "a": ["-30", "30", "-10", "10"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "Kết quả của phép tính 5 + (-2) là:",
+      "a": ["3", "-3", "7", "-7"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Kết quả của phép tính (-8) + 10 là:",
+      "a": ["-2", "2", "-18", "18"],
+      "correct": 1
+    },
+    {
+      "id": 14,
+      "q": "Kết quả của phép tính (-5) + 5 là:",
+      "a": ["10", "-10", "0", "5"],
+      "correct": 2
+    },
+    {
+      "id": 15,
+      "q": "Muốn cộng hai số nguyên âm, ta làm thế nào?",
+      "a": ["Cộng hai giá trị tuyệt đối rồi đặt dấu \"-\" đằng trước", "Cộng hai giá trị tuyệt đối rồi đặt dấu \"+\" đằng trước", "Lấy số lớn trừ số bé", "Lấy số bé trừ số lớn"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Phép trừ 10 - 15 có kết quả là:",
+      "a": ["5", "-5", "25", "-25"],
+      "correct": 1
+    },
+    {
+      "id": 17,
+      "q": "Phép tính 5 - (-3) được viết lại thành phép cộng nào?",
+      "a": ["5 + 3", "5 + (-3)", "-5 + 3", "-5 + (-3)"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Kết quả của 7 - (-2) là:",
+      "a": ["5", "9", "-5", "-9"],
+      "correct": 1
+    },
+    {
+      "id": 19,
+      "q": "Kết quả của (-5) - 4 là:",
+      "a": ["-1", "1", "-9", "9"],
+      "correct": 2
+    },
+    {
+      "id": 20,
+      "q": "Kết quả của (-10) - (-10) là:",
+      "a": ["-20", "20", "0", "10"],
+      "correct": 2
+    },
+    {
+      "id": 21,
+      "q": "Tìm x biết x + 2 = 5",
+      "a": ["x = 3", "x = -3", "x = 7", "x = -7"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Tìm x biết x + 10 = 0",
+      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
+      "correct": 1
+    },
+    {
+      "id": 23,
+      "q": "Tìm x biết x - 5 = -2",
+      "a": ["x = 3", "x = -3", "x = -7", "x = 7"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Tìm x biết 5 - x = 2",
+      "a": ["x = 7", "x = -3", "x = 3", "x = -7"],
+      "correct": 2
+    },
+    {
+      "id": 25,
+      "q": "Kết quả của phép tính 0 - 15 là:",
+      "a": ["15", "-15", "0", "1"],
+      "correct": 1
+    },
+    {
+      "id": 26,
+      "q": "Tính: |-5| + |-3|",
+      "a": ["-8", "8", "2", "-2"],
+      "correct": 1
+    },
+    {
+      "id": 27,
+      "q": "Nhiệt độ đang là 2 độ C, giảm đi 5 độ C thì còn bao nhiêu độ?",
+      "a": ["3 độ C", "-3 độ C", "7 độ C", "-7 độ C"],
+      "correct": 1
+    },
+    {
+      "id": 28,
+      "q": "Độ cao của tàu ngầm là -20m. Tàu lặn xuống thêm 10m nữa. Độ cao mới là:",
+      "a": ["-10m", "-30m", "10m", "30m"],
+      "correct": 1
+    },
+    {
+      "id": 29,
+      "q": "Bạn An nợ bạn Bình 10 ngàn (ghi là -10). Bạn An mượn thêm 5 ngàn nữa. Số tiền của An được ghi là:",
+      "a": ["-5", "-15", "15", "5"],
+      "correct": 1
+    },
+    {
+      "id": 30,
+      "q": "Khi bỏ dấu ngoặc có dấu \"+\" đằng trước thì:",
+      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Đổi dấu số hạng đầu tiên", "Xóa hết các số hạng"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Khi bỏ dấu ngoặc có dấu \"-\" đằng trước thì:",
+      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Giữ nguyên số hạng đầu tiên", "Xóa hết các số hạng"],
+      "correct": 1
+    },
+    {
+      "id": 32,
+      "q": "Kết quả của -(3 + 4) là:",
+      "a": ["7", "-7", "1", "-1"],
+      "correct": 1
+    },
+    {
+      "id": 33,
+      "q": "Kết quả của -(-5 + 2) là:",
+      "a": ["-3", "3", "7", "-7"],
+      "correct": 1
+    },
+    {
+      "id": 34,
+      "q": "Tính nhanh: 28 + (-15) + (-28)",
+      "a": ["15", "-15", "56", "-56"],
+      "correct": 1
+    },
+    {
+      "id": 35,
+      "q": "Tính nhanh: 12 + (-5) + 8",
+      "a": ["20", "25", "15", "10"],
+      "correct": 2
+    },
+    {
+      "id": 36,
+      "q": "Phép tính nào có kết quả bằng 0?",
+      "a": ["(-5) - 5", "(-5) + 5", "5 + 5", "(-5) + (-5)"],
+      "correct": 1
+    },
+    {
+      "id": 37,
+      "q": "Phép tính nào có kết quả là số dương?",
+      "a": ["(-5) + (-3)", "(-10) + 2", "5 + (-1)", "(-100) + 1"],
+      "correct": 2
+    },
+    {
+      "id": 38,
+      "q": "Tìm x biết x + 3 = -2",
+      "a": ["x = 1", "x = -1", "x = 5", "x = -5"],
+      "correct": 3
+    },
+    {
+      "id": 39,
+      "q": "Tính: (-1) + (-1) + (-1)",
+      "a": ["3", "-3", "0", "-1"],
+      "correct": 1
+    },
+    {
+      "id": 40,
+      "q": "Trong tập hợp số nguyên Z, khẳng định nào đúng?",
+      "a": ["Mọi số nguyên âm đều nhỏ hơn 0", "Mọi số nguyên âm đều lớn hơn 0", "Số 0 là số nguyên dương", "Số 0 là số nguyên âm"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Sắp xếp các số sau theo thứ tự tăng dần: -2; 4; 0; -5",
+      "a": ["0; 4; -2; -5", "-5; -2; 0; 4", "4; 0; -2; -5", "-2; -5; 0; 4"],
+      "correct": 1
+    },
+    {
+      "id": 42,
+      "q": "Kết quả của 100 - (50 + 40) là:",
+      "a": ["10", "90", "190", "-10"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Kết quả của 20 - (10 - 5) là:",
+      "a": ["5", "15", "25", "-5"],
+      "correct": 1
+    },
+    {
+      "id": 44,
+      "q": "Cho x = -2. Giá trị của x + 5 là:",
+      "a": ["3", "-3", "7", "-7"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Cho a = 10, b = -5. Tính a - b",
+      "a": ["5", "15", "-5", "-15"],
+      "correct": 1
+    },
+    {
+      "id": 46,
+      "q": "Biểu thức a - (b + c) khi bỏ ngoặc là:",
+      "a": ["a - b + c", "a - b - c", "a + b - c", "a + b + c"],
+      "correct": 1
+    },
+    {
+      "id": 47,
+      "q": "Tính: (-200) + 200",
+      "a": ["-400", "400", "0", "1"],
+      "correct": 2
+    },
+    {
+      "id": 48,
+      "q": "Tính: 34 + (-30)",
+      "a": ["64", "-64", "4", "-4"],
+      "correct": 2
+    },
+    {
+      "id": 49,
+      "q": "Kết quả của phép tính (-15) + (-5) + 10 là:",
+      "a": ["-10", "-30", "10", "30"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Tìm x biết -x = 10",
+      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
+      "correct": 1
+    },
+    {
+      "id": 51,
+      "q": "Tìm số nguyên x thỏa mãn: -2 < x < 1",
+      "a": ["x thuộc {-1; 0}", "x thuộc {-2; -1; 0}", "x thuộc {-1; 0; 1}", "x thuộc {0; 1}"],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "q": "Tính tổng: (-10) + (-20) + (-30)",
+      "a": ["-60", "60", "0", "-50"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "q": "Kết quả của phép tính: (-4) + (-6) + 5",
+      "a": ["-5", "-15", "5", "15"],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "q": "Chọn câu sai:",
+      "a": ["(-3) + (-5) = -8", "(-3) + 5 = 2", "3 + (-5) = -2", "(-3) - 5 = 2"],
+      "correct": 3
+    },
+    {
+      "id": 55,
+      "q": "Nhiệt độ buổi trưa là 30 độ C. Buổi tối giảm 5 độ C. Nhiệt độ buổi tối là:",
+      "a": ["25 độ C", "35 độ C", "-25 độ C", "5 độ C"],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "q": "Một thang máy đang ở tầng 10, đi xuống 3 tầng. Thang máy đang ở tầng mấy?",
+      "a": ["Tầng 13", "Tầng 7", "Tầng -7", "Tầng -3"],
+      "correct": 1
+    },
+    {
+      "id": 57,
+      "q": "Tính giá trị của biểu thức A = x - 5 tại x = 2",
+      "a": ["-3", "3", "7", "-7"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "q": "Kết quả của phép tính: 123 + (-123)",
+      "a": ["246", "0", "-246", "1"],
+      "correct": 1
+    },
+    {
+      "id": 59,
+      "q": "Tính: (-9) + 9 + (-5)",
+      "a": ["-5", "5", "23", "-23"],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "q": "Số nào cộng với (-8) thì bằng 0?",
+      "a": ["-8", "0", "8", "1"],
+      "correct": 2
+    }
+  ]
+}
