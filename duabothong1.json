@@ -1,0 +1,364 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "q": "Nếu giá một mặt hàng tăng thêm a%, công thức tính giá mới (Giá mới) dựa trên giá cũ (Giá cũ) là:",
+      "a": ["Giá mới = Giá cũ * (1 + a/100)", "Giá mới = Giá cũ + a", "Giá mới = Giá cũ * a/100", "Giá mới = Giá cũ / (1 + a/100)"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "q": "Lợi nhuận được tính bằng công thức nào?",
+      "a": ["Doanh thu - Chi phí", "Doanh thu + Chi phí", "Chi phí - Doanh thu", "Doanh thu * Chi phí"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "q": "Một món hàng giá 100.000 đồng được giảm giá 20%. Số tiền được giảm là bao nhiêu?",
+      "a": ["20.000 đồng", "80.000 đồng", "2.000 đồng", "120.000 đồng"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "q": "Một món hàng giá 100.000 đồng được giảm giá 10%. Giá bán sau khi giảm là:",
+      "a": ["90.000 đồng", "10.000 đồng", "110.000 đồng", "100.000 đồng"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "q": "Thuế VAT (Thuế giá trị gia tăng) thường làm cho giá thanh toán thực tế của sản phẩm:",
+      "a": ["Tăng lên", "Giảm đi", "Không đổi", "Tùy thuộc vào người bán"],
+      "correct": 0
+    },
+    {
+      "id": 6,
+      "q": "Nếu bạn mua hàng với giá 50.000 đồng và bán ra với giá 60.000 đồng. Bạn đã:",
+      "a": ["Lãi 10.000 đồng", "Lỗ 10.000 đồng", "Hòa vốn", "Lãi 20.000 đồng"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "Tỷ số phần trăm của 3 và 4 là:",
+      "a": ["75%", "30%", "40%", "133%"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "q": "50% của một số bằng 20. Số đó là:",
+      "a": ["40", "10", "100", "25"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Khái niệm 'Chiết khấu' trong thương mại thường được hiểu là:",
+      "a": ["Khoản giảm giá cho người mua", "Khoản tiền thuế phải đóng", "Khoản tiền phí vận chuyển", "Khoản tiền lãi ngân hàng"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Giá niêm yết là gì?",
+      "a": ["Giá công khai trên sản phẩm trước khi giảm giá", "Giá vốn của nhà sản xuất", "Giá đã giảm kịch sàn", "Giá sau khi cộng thuế"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Một quyển sách giá 50.000đ, tăng giá 10%. Giá mới là:",
+      "a": ["55.000đ", "50.500đ", "51.000đ", "45.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "Một chiếc áo giá 200.000đ, giảm giá 50%. Giá mới là:",
+      "a": ["100.000đ", "150.000đ", "50.000đ", "250.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "Tiền vốn là 1.000.000đ, tiền lãi là 100.000đ. Tỉ suất lợi nhuận trên vốn là:",
+      "a": ["10%", "1%", "100%", "90%"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "Mua một món hàng 80k, bán 100k. Lãi bao nhiêu phần trăm so với giá vốn?",
+      "a": ["25%", "20%", "80%", "125%"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Giảm giá 20% rồi lại giảm tiếp 10% trên giá đã giảm. Tổng mức giảm so với giá gốc là:",
+      "a": ["28%", "30%", "32%", "10%"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Giá xăng tăng từ 20.000đ lên 22.000đ. Mức tăng là bao nhiêu phần trăm?",
+      "a": ["10%", "2%", "20%", "5%"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "10% của 1 triệu đồng là:",
+      "a": ["100.000đ", "10.000đ", "1.000đ", "500.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Lãi suất tiết kiệm là 6%/năm. Nếu gửi 100 triệu, sau 1 năm nhận được bao nhiêu tiền lãi?",
+      "a": ["6.000.000đ", "600.000đ", "60.000.000đ", "106.000.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Giá trị của phân số 3/5 viết dưới dạng phần trăm là:",
+      "a": ["60%", "30%", "50%", "35%"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "Để tìm 15% của số X, ta thực hiện phép tính:",
+      "a": ["X nhân 0,15", "X nhân 15", "X chia 15", "X chia 0,15"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Một mặt hàng có giá chưa thuế là 100.000đ. Thuế VAT là 8%. Giá phải thanh toán là:",
+      "a": ["108.000đ", "92.000đ", "100.800đ", "180.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Nếu giá bán thấp hơn giá vốn thì gọi là:",
+      "a": ["Lỗ", "Hòa vốn", "Lãi", "Thâm hụt ngân sách"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Cửa hàng khuyến mãi 'Mua 1 tặng 1' tương đương với việc giảm giá bao nhiêu % cho mỗi sản phẩm (nếu mua 2 cái)?",
+      "a": ["50%", "100%", "25%", "0%"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Giá vàng giảm từ 60 triệu xuống 54 triệu. Giá vàng đã giảm bao nhiêu %?",
+      "a": ["10%", "6%", "9%", "12%"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Một sản phẩm ghi 'Off 30%' nghĩa là:",
+      "a": ["Giảm giá 30%", "Tăng giá 30%", "Chỉ bán 30% sản phẩm", "Giá bán bằng 30% giá gốc"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Tìm số tiền gốc biết 5% của nó là 20.000đ.",
+      "a": ["400.000đ", "100.000đ", "200.000đ", "500.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Sản phẩm A giá 100k, sản phẩm B giá 200k. Cả hai cùng tăng giá 10%. Tổng số tiền tăng thêm là:",
+      "a": ["30k", "10k", "20k", "15k"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Nếu lạm phát tăng, giá cả hàng hóa thường có xu hướng:",
+      "a": ["Tăng lên", "Giảm đi", "Không đổi", "Biến mất"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Tiền lương của bố là 10 triệu, tháng sau tăng 5%. Tiền lương mới là:",
+      "a": ["10,5 triệu", "15 triệu", "10,05 triệu", "11 triệu"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Trong siêu thị, giá 99.000đ thường được sử dụng thay vì 100.000đ để:",
+      "a": ["Tạo cảm giác giá rẻ hơn", "Làm tròn số", "Dễ tính toán", "Tránh thuế"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Công thức tính phần trăm tăng giá: ((Giá mới - Giá cũ) / Giá cũ) * 100. Đúng hay sai?",
+      "a": ["Đúng", "Sai"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Một món đồ giá 500k, cửa hàng giảm giá 10% cho khách hàng thân thiết. Khách phải trả:",
+      "a": ["450k", "400k", "490k", "50k"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Phí dịch vụ 5% trên hóa đơn 200.000đ là bao nhiêu?",
+      "a": ["10.000đ", "5.000đ", "20.000đ", "1.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Nếu một mặt hàng tăng giá 100%, giá mới sẽ gấp mấy lần giá cũ?",
+      "a": ["2 lần", "1,5 lần", "3 lần", "100 lần"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Bạn gửi 1 triệu vào ngân hàng, lãi suất 0,5%/tháng. Sau 1 tháng bạn có tổng cộng:",
+      "a": ["1.005.000đ", "1.050.000đ", "1.500.000đ", "1.000.500đ"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Số thập phân 0,75 tương ứng với bao nhiêu phần trăm?",
+      "a": ["75%", "7,5%", "0,75%", "750%"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Mua 10 cái bút hết 50.000đ. Nếu giá tăng 20%, mua 10 cái bút hết bao nhiêu?",
+      "a": ["60.000đ", "52.000đ", "70.000đ", "100.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Cửa hàng A giảm 20k cho hóa đơn 100k. Cửa hàng B giảm 15% cho hóa đơn 100k. Cửa hàng nào rẻ hơn?",
+      "a": ["Cửa hàng A", "Cửa hàng B", "Bằng nhau", "Không so sánh được"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Giá trị của X trong biểu thức: X + 10%X = 110 là:",
+      "a": ["100", "90", "110", "10"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Lãi ròng là gì?",
+      "a": ["Lợi nhuận sau khi trừ hết các chi phí và thuế", "Tổng doanh thu", "Tiền lãi ngân hàng", "Số tiền bán được hàng ngày"],
+      "correct": 0
+    },
+    {
+      "id": 41,
+      "q": "Một mặt hàng giá 200k, giảm 30%. Số tiền khách hàng tiết kiệm được là:",
+      "a": ["60k", "30k", "140k", "70k"],
+      "correct": 0
+    },
+    {
+      "id": 42,
+      "q": "150% của 20 là:",
+      "a": ["30", "25", "40", "300"],
+      "correct": 0
+    },
+    {
+      "id": 43,
+      "q": "Nếu giá điện tăng 5%, hóa đơn cũ là 500k thì hóa đơn mới là:",
+      "a": ["525k", "505k", "550k", "600k"],
+      "correct": 0
+    },
+    {
+      "id": 44,
+      "q": "Món hàng giá 1 triệu, giảm 10%, sau đó lại tăng giá 10% trên giá mới. Giá cuối cùng là:",
+      "a": ["990.000đ", "1 triệu", "1.100.000đ", "900.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 45,
+      "q": "Để tính nhanh 10% của một số, ta chỉ cần:",
+      "a": ["Chia số đó cho 10", "Nhân đôi số đó", "Chia số đó cho 2", "Trừ đi 10"],
+      "correct": 0
+    },
+    {
+      "id": 46,
+      "q": "3/4 số tiền của An là 75.000đ. Hỏi An có tổng bao nhiêu tiền?",
+      "a": ["100.000đ", "50.000đ", "150.000đ", "25.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 47,
+      "q": "Tỷ giá USD tăng nghĩa là:",
+      "a": ["Cần nhiều tiền Việt hơn để đổi 1 USD", "Đồng Việt Nam có giá trị hơn", "Cần ít tiền Việt hơn để đổi 1 USD", "Giá vàng giảm"],
+      "correct": 0
+    },
+    {
+      "id": 48,
+      "q": "Doanh thu 50 triệu, giá vốn 30 triệu, chi phí khác 10 triệu. Lợi nhuận là:",
+      "a": ["10 triệu", "20 triệu", "40 triệu", "50 triệu"],
+      "correct": 0
+    },
+    {
+      "id": 49,
+      "q": "Một shop bán lỗ 10% vốn. Biết vốn là 200k. Giá bán là:",
+      "a": ["180k", "190k", "210k", "220k"],
+      "correct": 0
+    },
+    {
+      "id": 50,
+      "q": "Khuyến mãi 'Mua 3 tính tiền 2' tương đương giảm giá khoảng bao nhiêu phần trăm cho lô hàng?",
+      "a": ["33,3%", "50%", "25%", "66,6%"],
+      "correct": 0
+    },
+    {
+      "id": 51,
+      "q": "Phần trăm (%) có ký hiệu là gì?",
+      "a": ["%", "#", "&", "$"],
+      "correct": 0
+    },
+    {
+      "id": 52,
+      "q": "Một đôi giày giá 400.000đ. Cửa hàng xả kho giảm giá 70%. Giá bán là:",
+      "a": ["120.000đ", "280.000đ", "300.000đ", "100.000đ"],
+      "correct": 0
+    },
+    {
+      "id": 53,
+      "q": "Tổng quát, nếu lãi suất ngân hàng tăng thì người dân có xu hướng:",
+      "a": ["Gửi tiền tiết kiệm nhiều hơn", "Vay tiền nhiều hơn", "Rút hết tiền về", "Mua vàng ngay lập tức"],
+      "correct": 0
+    },
+    {
+      "id": 54,
+      "q": "Số tiền lãi được tính theo công thức: Tiền lãi = Tiền gốc x Lãi suất. Đúng hay sai?",
+      "a": ["Đúng", "Sai"],
+      "correct": 0
+    },
+    {
+      "id": 55,
+      "q": "Nếu bạn được tăng lương gấp đôi, tức là lương tăng:",
+      "a": ["100%", "50%", "200%", "300%"],
+      "correct": 0
+    },
+    {
+      "id": 56,
+      "q": "Chi phí cố định (như tiền thuê nhà) là chi phí:",
+      "a": ["Không thay đổi dù bán được nhiều hay ít hàng", "Thay đổi theo số lượng sản phẩm bán ra", "Chỉ phải trả khi có lãi", "Chi phí mua nguyên liệu"],
+      "correct": 0
+    },
+    {
+      "id": 57,
+      "q": "Hàng tồn kho thanh lý giảm giá thường có mục đích chính là:",
+      "a": ["Thu hồi vốn nhanh", "Tăng lợi nhuận tối đa", "Trốn thuế", "Tăng giá trị thương hiệu"],
+      "correct": 0
+    },
+    {
+      "id": 58,
+      "q": "120% của A lớn hơn A. Đúng hay sai (với A > 0)?",
+      "a": ["Đúng", "Sai"],
+      "correct": 0
+    },
+    {
+      "id": 59,
+      "q": "Nếu giá đầu vào tăng, để giữ nguyên lợi nhuận (số tiền lãi), người bán thường:",
+      "a": ["Tăng giá bán", "Giảm giá bán", "Giữ nguyên giá bán", "Mua thêm nguyên liệu"],
+      "correct": 0
+    },
+    {
+      "id": 60,
+      "q": "Vay 1 triệu, lãi 10%/tháng. Sau 1 tháng phải trả cả gốc lẫn lãi là:",
+      "a": ["1.100.000đ", "1.010.000đ", "1.000.000đ", "100.000đ"],
+      "correct": 0
+    }
+  ]
+}
