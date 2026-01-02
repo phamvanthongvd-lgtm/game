@@ -2,138 +2,253 @@
   "questions": [
     {
       "id": 1,
-      "q": "Choose the correct greeting in the morning:",
-      "a": ["Good morning", "Good night", "Goodbye", "Good evening"],
+      "q": "Tính giá trị của biểu thức: 5 + (-3) = ?",
+      "a": ["2", "-2", "8", "-8"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "How do you say \"Xin chào\" in English?",
-      "a": ["Hello", "Thanks", "Sorry", "Bye"],
+      "q": "Tính: (-7) + 4 = ?",
+      "a": ["-3", "3", "-11", "11"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Choose the correct answer: I ___ a student.",
-      "a": ["am", "is", "are", "be"],
+      "q": "Tính: (-6) + (-9) = ?",
+      "a": ["-15", "15", "-3", "3"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "She ___ my best friend.",
-      "a": ["is", "am", "are", "be"],
+      "q": "Tính: 12 - 20 = ?",
+      "a": ["-8", "8", "-32", "32"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "They ___ in class 6A.",
-      "a": ["are", "is", "am", "be"],
+      "q": "Tính: (-15) - (-5) = ?",
+      "a": ["-10", "10", "-20", "20"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "What is your name? – ___ name is Nam.",
-      "a": ["My", "I", "Me", "Mine"],
+      "q": "Tính: 7 × (-6) = ?",
+      "a": ["-42", "42", "-13", "13"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Choose the correct subject pronoun for \"Lan\":",
-      "a": ["She", "He", "They", "It"],
+      "q": "Tính: (-8) × (-5) = ?",
+      "a": ["40", "-40", "13", "-13"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Choose the correct answer: We ___ students.",
-      "a": ["are", "is", "am", "be"],
+      "q": "Tính: (-36) ÷ 6 = ?",
+      "a": ["-6", "6", "-42", "42"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Which word is a noun?",
-      "a": ["School", "Run", "Big", "Quickly"],
+      "q": "Tính: 48 ÷ (-8) = ?",
+      "a": ["-6", "6", "-40", "40"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Which word is an adjective?",
-      "a": ["Happy", "Eat", "School", "Teacher"],
+      "q": "Tính: (-9) + 0 = ?",
+      "a": ["-9", "9", "0", "-18"],
       "correct": 0
     },
+
     {
       "id": 11,
-      "q": "Choose the correct verb: I ___ football every day.",
-      "a": ["play", "plays", "playing", "played"],
+      "q": "Tính giá trị của biểu thức: 3 + (-5) + 7 = ?",
+      "a": ["5", "-5", "15", "-15"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "He ___ to school by bike.",
-      "a": ["goes", "go", "going", "gone"],
+      "q": "Tính: (-10) + 4 - 6 = ?",
+      "a": ["-12", "12", "-2", "2"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "We ___ English on Monday.",
-      "a": ["have", "has", "having", "had"],
+      "q": "Tính: 5 × (-4) + 20 = ?",
+      "a": ["0", "-40", "40", "20"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "She ___ her homework in the evening.",
-      "a": ["does", "do", "doing", "did"],
+      "q": "Tính: (-18) ÷ (-3) + 2 = ?",
+      "a": ["8", "-8", "6", "-6"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Choose the correct sentence:",
-      "a": ["He likes music.", "He like music.", "He liking music.", "He liked music every day."],
+      "q": "Tính: 10 - [(-3) + 5] = ?",
+      "a": ["8", "2", "-8", "-2"],
       "correct": 0
     },
+
     {
       "id": 16,
-      "q": "There ___ a book on the table.",
-      "a": ["is", "are", "be", "am"],
+      "q": "Tìm x biết: x + 5 = 12",
+      "a": ["7", "-7", "17", "-17"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "There ___ two windows in the classroom.",
-      "a": ["are", "is", "be", "am"],
+      "q": "Tìm x: x - 9 = -4",
+      "a": ["5", "-5", "13", "-13"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "The cat is ___ the table.",
-      "a": ["under", "on", "next", "between"],
+      "q": "Tìm x: x + (-6) = 10",
+      "a": ["16", "-16", "4", "-4"],
       "correct": 0
     },
     {
       "id": 19,
-      "q": "My school is ___ the park.",
-      "a": ["near", "in", "on", "from"],
+      "q": "Tìm x: x - (-8) = 3",
+      "a": ["-5", "5", "-11", "11"],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "The bag is ___ the chair.",
-      "a": ["on", "in", "at", "to"],
+      "q": "Tìm x: 4x = -20",
+      "a": ["-5", "5", "-80", "80"],
       "correct": 0
     },
+
     {
       "id": 21,
-      "q": "Which sentence is correct?",
-      "a": ["I get up at six.", "I gets up at six.", "I getting up at six.", "I got up every day."],
+      "q": "Tìm x: (-3)x = 21",
+      "a": ["-7", "7", "-24", "24"],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "What do you do in the morning?",
-      "a": ["I brush my teeth.", "I brushing my teeth.", "I brushed my teeth.", "I brush teeth my."],
+      "q": "Tìm x: x ÷ (-4) = 6",
+      "a": ["-24", "24", "-10", "10"],
       "correct": 0
     },
     {
       "id": 23,
+      "q": "Tìm x: x ÷ 5 = -3",
+      "a": ["-15", "15", "-8", "8"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Tìm x: x + 12 = -8",
+      "a": ["-20", "20", "4", "-4"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Tìm x: x - 15 = -25",
+      "a": ["-10", "10", "-40", "40"],
+      "correct": 0
+    },
+
+    {
+      "id": 26,
+      "q": "Tính: (-5) × 6 + 10 = ?",
+      "a": ["-20", "20", "-40", "40"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Tính: 30 - (-12) ÷ 3 = ?",
+      "a": ["34", "26", "-34", "-26"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Tính: (-4) × [6 - 9] = ?",
+      "a": ["12", "-12", "36", "-36"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Tính: (-24) ÷ (-6) - 5 = ?",
+      "a": ["-1", "1", "9", "-9"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Tính: 8 + (-2) × 5 = ?",
+      "a": ["-2", "30", "18", "-18"],
+      "correct": 0
+    },
+
+    {
+      "id": 31,
+      "q": "Tìm x: 2x - 6 = 10",
+      "a": ["8", "-8", "2", "-2"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Tìm x: -5x = 25",
+      "a": ["-5", "5", "-125", "125"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Tìm x: x + x = -14",
+      "a": ["-7", "7", "-28", "28"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Tìm x: 3x + 6 = -3",
+      "a": ["-3", "3", "-1", "1"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Tìm x: x ÷ 2 = -9",
+      "a": ["-18", "18", "-7", "7"],
+      "correct": 0
+    },
+
+    {
+      "id": 36,
+      "q": "Tính: (-7) + 14 ÷ (-2) = ?",
+      "a": ["-14", "14", "0", "-7"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Tính: [(-3) + 5] × (-4) = ?",
+      "a": ["-8", "8", "-32", "32"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Tính: 20 - (-4) × 3 = ?",
+      "a": ["32", "8", "-32", "-8"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Tìm x: x - (-10) = 0",
+      "a": ["-10", "10", "0", "-20"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Tìm x: (-2)x + 4 = 0",
+      "a": ["2", "-2", "4", "-4"],
+      "correct": 0
+    }
+  ]
+}
+
 
 
 
