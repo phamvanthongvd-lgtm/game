@@ -30,9 +30,110 @@
       "a": ["are", "is", "am", "be"],
       "correct": 0
     },
-
     {
       "id": 6,
-      "q": "What is your name? – __
+      "q": "What is your name? – ___ name is Nam.",
+      "a": ["My", "I", "Me", "Mine"],
+      "correct": 0
+    },
+    {
+      "id": 7,
+      "q": "Choose the correct subject pronoun for \"Lan\":",
+      "a": ["She", "He", "They", "It"],
+      "correct": 0
+    },
+    {
+      "id": 8,
+      "q": "Choose the correct answer: We ___ students.",
+      "a": ["are", "is", "am", "be"],
+      "correct": 0
+    },
+    {
+      "id": 9,
+      "q": "Which word is a noun?",
+      "a": ["School", "Run", "Big", "Quickly"],
+      "correct": 0
+    },
+    {
+      "id": 10,
+      "q": "Which word is an adjective?",
+      "a": ["Happy", "Eat", "School", "Teacher"],
+      "correct": 0
+    },
+    {
+      "id": 11,
+      "q": "Choose the correct verb: I ___ football every day.",
+      "a": ["play", "plays", "playing", "played"],
+      "correct": 0
+    },
+    {
+      "id": 12,
+      "q": "He ___ to school by bike.",
+      "a": ["goes", "go", "going", "gone"],
+      "correct": 0
+    },
+    {
+      "id": 13,
+      "q": "We ___ English on Monday.",
+      "a": ["have", "has", "having", "had"],
+      "correct": 0
+    },
+    {
+      "id": 14,
+      "q": "She ___ her homework in the evening.",
+      "a": ["does", "do", "doing", "did"],
+      "correct": 0
+    },
+    {
+      "id": 15,
+      "q": "Choose the correct sentence:",
+      "a": ["He likes music.", "He like music.", "He liking music.", "He liked music every day."],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "There ___ a book on the table.",
+      "a": ["is", "are", "be", "am"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "There ___ two windows in the classroom.",
+      "a": ["are", "is", "be", "am"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "The cat is ___ the table.",
+      "a": ["under", "on", "next", "between"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "My school is ___ the park.",
+      "a": ["near", "in", "on", "from"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "The bag is ___ the chair.",
+      "a": ["on", "in", "at", "to"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Which sentence is correct?",
+      "a": ["I get up at six.", "I gets up at six.", "I getting up at six.", "I got up every day."],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "What do you do in the morning?",
+      "a": ["I brush my teeth.", "I brushing my teeth.", "I brushed my teeth.", "I brush teeth my."],
+      "correct": 0
+    },
+    {
+      "id": 23,
+
 
 
