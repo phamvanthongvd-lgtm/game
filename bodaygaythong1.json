@@ -2,246 +2,115 @@
   "questions": [
     {
       "id": 1,
-      "q": "Choose the correct greeting in the morning:",
-      "a": ["Good morning", "Good night", "Goodbye", "Good evening"],
+      "q": "Tính: 1/2 + 1/3 = ?",
+      "a": ["5/6", "2/5", "1/6", "3/5"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "How do you say \"Xin chào\" in English?",
-      "a": ["Hello", "Thanks", "Sorry", "Bye"],
+      "q": "Tính: 3/4 + 1/4 = ?",
+      "a": ["1", "1/2", "3/8", "4/8"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Choose the correct answer: I ___ a student.",
-      "a": ["am", "is", "are", "be"],
+      "q": "Tính: 5/6 - 1/6 = ?",
+      "a": ["2/3", "4/6", "1/6", "5/12"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "She ___ my best friend.",
-      "a": ["is", "am", "are", "be"],
+      "q": "Tính: 7/8 - 3/8 = ?",
+      "a": ["1/2", "4/8", "3/8", "7/16"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "They ___ in class 6A.",
-      "a": ["are", "is", "am", "be"],
+      "q": "Tính: 2/5 + 1/5 = ?",
+      "a": ["3/5", "2/10", "1/5", "5/5"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "What is your name? – ___ name is Nam.",
-      "a": ["My", "I", "Me", "Mine"],
+      "q": "Tính: 9/10 - 4/10 = ?",
+      "a": ["1/2", "5/10", "9/20", "4/10"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Choose the correct subject pronoun for \"Lan\":",
-      "a": ["She", "He", "They", "It"],
+      "q": "Tính: 1/3 + 1/6 = ?",
+      "a": ["1/2", "2/9", "1/9", "2/6"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Choose the correct answer: We ___ students.",
-      "a": ["are", "is", "am", "be"],
+      "q": "Tính: 5/12 + 1/12 = ?",
+      "a": ["1/2", "6/12", "5/24", "1/6"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Which word is a noun?",
-      "a": ["School", "Run", "Big", "Quickly"],
+      "q": "Tính: 4/7 - 2/7 = ?",
+      "a": ["2/7", "1/7", "4/14", "6/7"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Which word is an adjective?",
-      "a": ["Happy", "Eat", "School", "Teacher"],
+      "q": "Tính: 11/12 - 5/12 = ?",
+      "a": ["1/2", "6/12", "5/6", "11/24"],
       "correct": 0
     },
+
     {
       "id": 11,
-      "q": "Choose the correct verb: I ___ football every day.",
-      "a": ["play", "plays", "playing", "played"],
+      "q": "Tính: 1/4 + 1/2 = ?",
+      "a": ["3/4", "2/6", "1/6", "1/2"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "He ___ to school by bike.",
-      "a": ["goes", "go", "going", "gone"],
+      "q": "Tính: 3/5 - 1/10 = ?",
+      "a": ["1/2", "2/5", "3/10", "1/10"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "We ___ English on Monday.",
-      "a": ["have", "has", "having", "had"],
+      "q": "Tính: 2/3 + 1/9 = ?",
+      "a": ["7/9", "3/12", "1/3", "5/9"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "She ___ her homework in the evening.",
-      "a": ["does", "do", "doing", "did"],
+      "q": "Tính: 5/6 - 1/3 = ?",
+      "a": ["1/2", "2/6", "4/6", "1/3"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Choose the correct sentence:",
-      "a": ["He likes music.", "He like music.", "He liking music.", "He liked music every day."],
+      "q": "Tính: 7/10 + 1/5 = ?",
+      "a": ["9/10", "8/10", "7/15", "1/2"],
       "correct": 0
     },
+
     {
       "id": 16,
-      "q": "There ___ a book on the table.",
-      "a": ["is", "are", "be", "am"],
+      "q": "Tính: 4/9 + 2/9 = ?",
+      "a": ["2/3", "6/18", "4/18", "1/3"],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "There ___ two windows in the classroom.",
-      "a": ["are", "is", "be", "am"],
+      "q": "Tính: 8/15 - 3/15 = ?",
+      "a": ["1/3", "5/15", "8/30", "2/5"],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "The cat is ___ the table.",
-      "a": ["under", "on", "next", "between"],
+      "q": "Tính: 1/6 + 5/6 = ?",
+      "a": ["1", "6/12", "5/12", "2/3"],
       "correct": 0
     },
-    {
-      "id": 19,
-      "q": "My school is ___ the park.",
-      "a": ["near", "in", "on", "from"],
-      "correct": 0
-    },
-    {
-      "id": 20,
-      "q": "The bag is ___ the chair.",
-      "a": ["on", "in", "at", "to"],
-      "correct": 0
-    },
-    {
-      "id": 21,
-      "q": "Which sentence is correct?",
-      "a": ["I get up at six.", "I gets up at six.", "I getting up at six.", "I got up every day."],
-      "correct": 0
-    },
-    {
-      "id": 22,
-      "q": "What do you do in the morning?",
-      "a": ["I brush my teeth.", "I brushing my teeth.", "I brushed my teeth.", "I brush teeth my."],
-      "correct": 0
-    },
-    {
-      "id": 23,
-      "q": "Choose the correct answer: We ___ lunch at school.",
-      "a": ["have", "has", "having", "had"],
-      "correct": 0
-    },
-    {
-      "id": 24,
-      "q": "Which word means \"gia đình\"?",
-      "a": ["Family", "Friend", "Teacher", "Student"],
-      "correct": 0
-    },
-    {
-      "id": 25,
-      "q": "Which word means \"trường học\"?",
-      "a": ["School", "House", "Park", "Class"],
-      "correct": 0
-    },
-    {
-      "id": 26,
-      "q": "How many people are there in your family? – There are ___ people.",
-      "a": ["four", "fourth", "for", "forth"],
-      "correct": 0
-    },
-    {
-      "id": 27,
-      "q": "My father is a ___. He works in a hospital.",
-      "a": ["doctor", "teacher", "student", "farmer"],
-      "correct": 0
-    },
-    {
-      "id": 28,
-      "q": "My mother ___ dinner every day.",
-      "a": ["cooks", "cook", "cooking", "cooked"],
-      "correct": 0
-    },
-    {
-      "id": 29,
-      "q": "Which word is a verb?",
-      "a": ["Run", "School", "Happy", "Blue"],
-      "correct": 0
-    },
-    {
-      "id": 30,
-      "q": "Which word is a color?",
-      "a": ["Blue", "Big", "Run", "Teacher"],
-      "correct": 0
-    },
-    {
-      "id": 31,
-      "q": "Choose the correct answer: This ___ my pen.",
-      "a": ["is", "are", "am", "be"],
-      "correct": 0
-    },
-    {
-      "id": 32,
-      "q": "Those ___ my friends.",
-      "a": ["are", "is", "am", "be"],
-      "correct": 0
-    },
-    {
-      "id": 33,
-      "q": "What is this? – It is a ___.",
-      "a": ["book", "books", "booking", "booked"],
-      "correct": 0
-    },
-    {
-      "id": 34,
-      "q": "How old are you? – I am ___ years old.",
-      "a": ["twelve", "twelveth", "twelves", "twelving"],
-      "correct": 0
-    },
-    {
-      "id": 35,
-      "q": "Which sentence is correct?",
-      "a": ["She is twelve years old.", "She are twelve years old.", "She am twelve.", "She be twelve."],
-      "correct": 0
-    },
-    {
-      "id": 36,
-      "q": "Choose the correct answer: We ___ English now",
-      "a": ["learn", "learning", "learns", "learned"],
-      "correct": 0
-    },
-    {
-      "id": 37,
-      "q": "Which word means \"bạn bè\"?",
-      "a": ["Friends", "Family", "Parents", "Teachers"],
-      "correct": 0
-    },
-    {
-      "id": 38,
-      "q": "My classroom is ___ the second floor.",
-      "a": ["on", "in", "at", "from"],
-      "correct": 0
-    },
-    {
-      "id": 39,
-      "q": "Choose the correct answer: I ___ TV in the evening.",
-      "a": ["watch", "watches", "watching", "watched"],
-      "correct": 0
-    },
-    {
-      "id": 40,
-      "q": "Which sentence is correct?",
-      "a": ["They are my classmates.", "They is my classmates.", "They am my classmates.", "They be my classmates."],
-      "correct": 0
-    }
-  ]
-}
+
 
 
 
