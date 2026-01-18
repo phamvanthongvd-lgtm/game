@@ -1,365 +1,444 @@
 {
-  "title": "Ôn tập Cộng - Trừ Số Nguyên (Cơ bản)",
   "questions": [
     {
       "id": 1,
-      "q": "Số đối của số -7 là:",
-      "a": ["7", "-7", "0", "1/7"],
+      "q": "Nếu đại lượng y liên hệ với đại lượng x theo công thức y = kx (với k là hằng số khác 0) thì ta nói:",
+      "a": [
+        "y tỉ lệ thuận với x theo hệ số tỉ lệ k",
+        "x tỉ lệ thuận với y theo hệ số tỉ lệ k",
+        "y tỉ lệ nghịch với x theo hệ số tỉ lệ k",
+        "y và x là hai đại lượng không liên quan"
+      ],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Số đối của số 15 là:",
-      "a": ["15", "-15", "0", "51"],
-      "correct": 1
+      "q": "Khi đại lượng y tỉ lệ thuận với đại lượng x theo hệ số tỉ lệ k thì x tỉ lệ thuận với y theo hệ số tỉ lệ nào?",
+      "a": [
+        "1/k",
+        "k",
+        "-k",
+        "k²"
+      ],
+      "correct": 0
     },
     {
       "id": 3,
-      "q": "Số nguyên âm nhỏ nhất có 1 chữ số là:",
-      "a": ["-1", "-9", "0", "1"],
-      "correct": 1
+      "q": "Cho y tỉ lệ thuận với x theo công thức y = 3x. Hệ số tỉ lệ k bằng:",
+      "a": [
+        "3",
+        "1/3",
+        "-3",
+        "0"
+      ],
+      "correct": 0
     },
     {
       "id": 4,
-      "q": "Tổng của hai số nguyên đối nhau bằng:",
-      "a": ["1", "-1", "0", "10"],
-      "correct": 2
+      "q": "Nếu y tỉ lệ thuận với x và khi x = 2 thì y = 10. Hệ số tỉ lệ k của y đối với x là:",
+      "a": [
+        "5",
+        "20",
+        "0.2",
+        "12"
+      ],
+      "correct": 0
     },
     {
       "id": 5,
-      "q": "Giá trị tuyệt đối của -10 là:",
-      "a": ["-10", "10", "0", "-1"],
-      "correct": 1
+      "q": "Công thức nào sau đây biểu diễn y tỉ lệ thuận với x?",
+      "a": [
+        "y = -0,5x",
+        "y = 5 + x",
+        "y = 10/x",
+        "x = y + 2"
+      ],
+      "correct": 0
     },
     {
       "id": 6,
-      "q": "Giá trị tuyệt đối của số 0 là:",
-      "a": ["0", "1", "-1", "Không xác định"],
+      "q": "Cho x và y là hai đại lượng tỉ lệ thuận. Biết x1, x2 và y1, y2 là các giá trị tương ứng. Khẳng định nào sau đây ĐÚNG?",
+      "a": [
+        "y1/x1 = y2/x2",
+        "x1.y1 = x2.y2",
+        "y1/x2 = y2/x1",
+        "x1/y2 = x2/y1"
+      ],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "So sánh -5 và -3:",
-      "a": ["-5 > -3", "-5 < -3", "-5 = -3", "Không so sánh được"],
-      "correct": 1
+      "q": "Trong công thức quãng đường s = v.t (với vận tốc v là hằng số khác 0), ta có:",
+      "a": [
+        "s tỉ lệ thuận với t theo hệ số tỉ lệ v",
+        "t tỉ lệ thuận với s theo hệ số tỉ lệ v",
+        "s tỉ lệ nghịch với t theo hệ số tỉ lệ v",
+        "v tỉ lệ thuận với s theo hệ số tỉ lệ t"
+      ],
+      "correct": 0
     },
     {
       "id": 8,
-      "q": "Số nguyên liền sau của số -1 là:",
-      "a": ["-2", "0", "1", "-3"],
-      "correct": 1
+      "q": "Nếu y tỉ lệ thuận với x theo hệ số tỉ lệ k = -2 thì khi x = 3, giá trị của y là:",
+      "a": [
+        "-6",
+        "6",
+        "-1.5",
+        "1.5"
+      ],
+      "correct": 0
     },
     {
       "id": 9,
-      "q": "Số nguyên liền trước của số -5 là:",
-      "a": ["-4", "-6", "0", "-5"],
-      "correct": 1
+      "q": "Cho bảng giá trị: x = {1; 2; 3}, y = {4; 8; 12}. Hai đại lượng x và y tỉ lệ thuận với nhau theo hệ số tỉ lệ k (của y đối với x) là:",
+      "a": [
+        "4",
+        "1/4",
+        "2",
+        "8"
+      ],
+      "correct": 0
     },
     {
       "id": 10,
-      "q": "Kết quả của phép tính (-2) + (-3) là:",
-      "a": ["5", "-5", "1", "-1"],
-      "correct": 1
+      "q": "Biết khối lượng m (g) tỉ lệ thuận với thể tích V (cm³) theo công thức m = 7,8V. Hệ số tỉ lệ là:",
+      "a": [
+        "7,8",
+        "1/7,8",
+        "V",
+        "m"
+      ],
+      "correct": 0
     },
     {
       "id": 11,
-      "q": "Kết quả của phép tính (-10) + (-20) là:",
-      "a": ["-30", "30", "-10", "10"],
+      "q": "Cho biết x và y tỉ lệ thuận. Nếu x tăng lên 3 lần thì y sẽ:",
+      "a": [
+        "Tăng lên 3 lần",
+        "Giảm đi 3 lần",
+        "Không thay đổi",
+        "Tăng lên 9 lần"
+      ],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Kết quả của phép tính 5 + (-2) là:",
-      "a": ["3", "-3", "7", "-7"],
+      "q": "Nếu y tỉ lệ thuận với x theo hệ số k = 0,5 thì x tỉ lệ thuận với y theo hệ số:",
+      "a": [
+        "2",
+        "0,5",
+        "5",
+        "-2"
+      ],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Kết quả của phép tính (-8) + 10 là:",
-      "a": ["-2", "2", "-18", "18"],
-      "correct": 1
+      "q": "Thay dấu '?' bằng số thích hợp: y tỉ lệ thuận với x theo hệ số k = 4. Khi y = 20 thì x = ?",
+      "a": [
+        "5",
+        "80",
+        "100",
+        "4"
+      ],
+      "correct": 0
     },
     {
       "id": 14,
-      "q": "Kết quả của phép tính (-5) + 5 là:",
-      "a": ["10", "-10", "0", "5"],
-      "correct": 2
+      "q": "Công thức tính chu vi C của hình vuông theo độ dài cạnh a là C = 4a. Khẳng định nào sau đây đúng?",
+      "a": [
+        "C tỉ lệ thuận với a theo hệ số 4",
+        "a tỉ lệ thuận với C theo hệ số 4",
+        "C và a tỉ lệ nghịch với nhau",
+        "Hệ số tỉ lệ là 1/4"
+      ],
+      "correct": 0
     },
     {
       "id": 15,
-      "q": "Muốn cộng hai số nguyên âm, ta làm thế nào?",
-      "a": ["Cộng hai giá trị tuyệt đối rồi đặt dấu \"-\" đằng trước", "Cộng hai giá trị tuyệt đối rồi đặt dấu \"+\" đằng trước", "Lấy số lớn trừ số bé", "Lấy số bé trừ số lớn"],
+      "q": "Cho x và y tỉ lệ thuận. Biết y1/x1 = 2. Giá trị của y2 khi x2 = -3 là:",
+      "a": [
+        "-6",
+        "6",
+        "-1.5",
+        "-2/3"
+      ],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Phép trừ 10 - 15 có kết quả là:",
-      "a": ["5", "-5", "25", "-25"],
-      "correct": 1
+      "q": "Hai thanh sắt có thể tích lần lượt là 10 cm³ và 15 cm³. Biết khối lượng và thể tích tỉ lệ thuận. Thanh thứ hai sẽ:",
+      "a": [
+        "Nặng hơn thanh thứ nhất",
+        "Nhẹ hơn thanh thứ nhất",
+        "Bằng khối lượng thanh thứ nhất",
+        "Không so sánh được"
+      ],
+      "correct": 0
     },
     {
       "id": 17,
-      "q": "Phép tính 5 - (-3) được viết lại thành phép cộng nào?",
-      "a": ["5 + 3", "5 + (-3)", "-5 + 3", "-5 + (-3)"],
+      "q": "Cho biết y tỉ lệ thuận với x theo hệ số tỉ lệ k. Nếu x1 + x2 = 5 và y1 + y2 = 15 thì k bằng:",
+      "a": [
+        "3",
+        "1/3",
+        "10",
+        "75"
+      ],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Kết quả của 7 - (-2) là:",
-      "a": ["5", "9", "-5", "-9"],
-      "correct": 1
+      "q": "Ba số a, b, c tỉ lệ thuận với 3; 4; 5 được viết là:",
+      "a": [
+        "a/3 = b/4 = c/5",
+        "3a = 4b = 5c",
+        "a/5 = b/4 = c/3",
+        "a+3 = b+4 = c+5"
+      ],
+      "correct": 0
     },
     {
       "id": 19,
-      "q": "Kết quả của (-5) - 4 là:",
-      "a": ["-1", "1", "-9", "9"],
-      "correct": 2
+      "q": "Nếu z tỉ lệ thuận với y theo hệ số k1, y tỉ lệ thuận với x theo hệ số k2 thì z tỉ lệ thuận với x theo hệ số:",
+      "a": [
+        "k1 . k2",
+        "k1 + k2",
+        "k1 / k2",
+        "k2 / k1"
+      ],
+      "correct": 0
     },
     {
       "id": 20,
-      "q": "Kết quả của (-10) - (-10) là:",
-      "a": ["-20", "20", "0", "10"],
-      "correct": 2
+      "q": "Chia số 12 thành hai phần tỉ lệ thuận với 1 và 2. Hai phần đó là:",
+      "a": [
+        "4 và 8",
+        "3 và 9",
+        "6 và 6",
+        "5 và 7"
+      ],
+      "correct": 0
     },
     {
       "id": 21,
-      "q": "Tìm x biết x + 2 = 5",
-      "a": ["x = 3", "x = -3", "x = 7", "x = -7"],
+      "q": "Một công nhân may được 20 chiếc áo trong 4 giờ. Với năng suất đó, trong 10 giờ người đó may được số áo là:",
+      "a": [
+        "50",
+        "40",
+        "80",
+        "100"
+      ],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Tìm x biết x + 10 = 0",
-      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
-      "correct": 1
+      "q": "Cho tam giác có độ dài ba cạnh tỉ lệ với 3; 4; 5. Biết chu vi tam giác là 60 cm. Cạnh lớn nhất của tam giác là:",
+      "a": [
+        "25 cm",
+        "20 cm",
+        "15 cm",
+        "30 cm"
+      ],
+      "correct": 0
     },
     {
       "id": 23,
-      "q": "Tìm x biết x - 5 = -2",
-      "a": ["x = 3", "x = -3", "x = -7", "x = 7"],
+      "q": "Giá tiền của x quyển vở là y (đồng). Biết giá 1 quyển là 8 000 đồng. Công thức biểu diễn y theo x là:",
+      "a": [
+        "y = 8 000x",
+        "y = 8 000/x",
+        "x = 8 000y",
+        "y = x + 8 000"
+      ],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Tìm x biết 5 - x = 2",
-      "a": ["x = 7", "x = -3", "x = 3", "x = -7"],
-      "correct": 2
+      "q": "Cho x và y tỉ lệ thuận. Biết x1 = 2, y1 = -4. Công thức liên hệ là:",
+      "a": [
+        "y = -2x",
+        "y = 2x",
+        "y = -0,5x",
+        "x = -2y"
+      ],
+      "correct": 0
     },
     {
       "id": 25,
-      "q": "Kết quả của phép tính 0 - 15 là:",
-      "a": ["15", "-15", "0", "1"],
-      "correct": 1
+      "q": "Tính chất của dãy tỉ số bằng nhau áp dụng cho tỉ lệ thuận a/x = b/y là:",
+      "a": [
+        "(a+b)/(x+y)",
+        "(a-b)/(y-x)",
+        "ab/xy",
+        "a.x = b.y"
+      ],
+      "correct": 0
     },
     {
       "id": 26,
-      "q": "Tính: |-5| + |-3|",
-      "a": ["-8", "8", "2", "-2"],
-      "correct": 1
+      "q": "Học sinh lớp 7A trồng được 40 cây, lớp 7B trồng được 45 cây. Tỉ số số cây trồng được của 7A và 7B là:",
+      "a": [
+        "8/9",
+        "9/8",
+        "40/45",
+        "5"
+      ],
+      "correct": 0
     },
     {
       "id": 27,
-      "q": "Nhiệt độ đang là 2 độ C, giảm đi 5 độ C thì còn bao nhiêu độ?",
-      "a": ["3 độ C", "-3 độ C", "7 độ C", "-7 độ C"],
-      "correct": 1
+      "q": "Nếu y = kx thì tỉ số y/x gọi là:",
+      "a": [
+        "Hệ số tỉ lệ",
+        "Biến số",
+        "Hằng số tự do",
+        "Số hạng"
+      ],
+      "correct": 0
     },
     {
       "id": 28,
-      "q": "Độ cao của tàu ngầm là -20m. Tàu lặn xuống thêm 10m nữa. Độ cao mới là:",
-      "a": ["-10m", "-30m", "10m", "30m"],
-      "correct": 1
+      "q": "Cho x tỉ lệ thuận với y theo hệ số 0,4. Vậy y tỉ lệ thuận với x theo hệ số:",
+      "a": [
+        "2,5",
+        "4",
+        "0,4",
+        "1/4"
+      ],
+      "correct": 0
     },
     {
       "id": 29,
-      "q": "Bạn An nợ bạn Bình 10 ngàn (ghi là -10). Bạn An mượn thêm 5 ngàn nữa. Số tiền của An được ghi là:",
-      "a": ["-5", "-15", "15", "5"],
-      "correct": 1
+      "q": "Một máy bay bay với vận tốc không đổi. Quãng đường bay được (km) và thời gian bay (giờ) là:",
+      "a": [
+        "Hai đại lượng tỉ lệ thuận",
+        "Hai đại lượng tỉ lệ nghịch",
+        "Hai đại lượng không tỉ lệ",
+        "Bằng nhau"
+      ],
+      "correct": 0
     },
     {
       "id": 30,
-      "q": "Khi bỏ dấu ngoặc có dấu \"+\" đằng trước thì:",
-      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Đổi dấu số hạng đầu tiên", "Xóa hết các số hạng"],
+      "q": "Cho x/y = 5/2. Khẳng định nào đúng?",
+      "a": [
+        "x tỉ lệ thuận với y theo hệ số 2,5",
+        "y tỉ lệ thuận với x theo hệ số 2,5",
+        "x tỉ lệ thuận với y theo hệ số 0,4",
+        "x và y tỉ lệ nghịch"
+      ],
       "correct": 0
     },
     {
       "id": 31,
-      "q": "Khi bỏ dấu ngoặc có dấu \"-\" đằng trước thì:",
-      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Giữ nguyên số hạng đầu tiên", "Xóa hết các số hạng"],
-      "correct": 1
+      "q": "Biết y tỉ lệ thuận với x theo hệ số k = 1/2. Khi x = -4 thì y bằng:",
+      "a": [
+        "-2",
+        "2",
+        "-8",
+        "-1/8"
+      ],
+      "correct": 0
     },
     {
       "id": 32,
-      "q": "Kết quả của -(3 + 4) là:",
-      "a": ["7", "-7", "1", "-1"],
-      "correct": 1
+      "q": "Tổng số tiền thưởng của hai bạn An và Bình là 360 000 đồng, tỉ lệ thuận với 4 và 5. Số tiền An nhận được là:",
+      "a": [
+        "160 000 đồng",
+        "200 000 đồng",
+        "180 000 đồng",
+        "90 000 đồng"
+      ],
+      "correct": 0
     },
     {
       "id": 33,
-      "q": "Kết quả của -(-5 + 2) là:",
-      "a": ["-3", "3", "7", "-7"],
-      "correct": 1
+      "q": "Trong các cặp đại lượng sau, cặp nào tỉ lệ thuận?",
+      "a": [
+        "Số lượng sản phẩm và tổng số tiền trả (giá mỗi đơn vị không đổi)",
+        "Vận tốc và thời gian trên cùng một quãng đường",
+        "Chiều dài và chiều rộng của hình chữ nhật có diện tích không đổi",
+        "Số người làm và thời gian hoàn thành cùng một công việc"
+      ],
+      "correct": 0
     },
     {
       "id": 34,
-      "q": "Tính nhanh: 28 + (-15) + (-28)",
-      "a": ["15", "-15", "56", "-56"],
-      "correct": 1
+      "q": "Cho y tỉ lệ thuận với x. Biết x1 = 5, y1 = 2. Khi đó y2/x2 bằng:",
+      "a": [
+        "0,4",
+        "2,5",
+        "10",
+        "7"
+      ],
+      "correct": 0
     },
     {
       "id": 35,
-      "q": "Tính nhanh: 12 + (-5) + 8",
-      "a": ["20", "25", "15", "10"],
-      "correct": 2
+      "q": "Hệ số tỉ lệ k của y đối với x trong công thức y = x/5 là:",
+      "a": [
+        "1/5",
+        "5",
+        "1",
+        "x"
+      ],
+      "correct": 0
     },
     {
       "id": 36,
-      "q": "Phép tính nào có kết quả bằng 0?",
-      "a": ["(-5) - 5", "(-5) + 5", "5 + 5", "(-5) + (-5)"],
-      "correct": 1
+      "q": "Hai đại lượng x và y tỉ lệ thuận. Biết x1 = 3, y1 = 9. Tỉ số x1/x2 bằng tỉ số nào?",
+      "a": [
+        "y1/y2",
+        "y2/y1",
+        "x2/y1",
+        "y2/x2"
+      ],
+      "correct": 0
     },
     {
       "id": 37,
-      "q": "Phép tính nào có kết quả là số dương?",
-      "a": ["(-5) + (-3)", "(-10) + 2", "5 + (-1)", "(-100) + 1"],
-      "correct": 2
+      "q": "Cho biết 1m dây điện nặng 20g. Hỏi 100m dây điện cùng loại nặng bao nhiêu kg?",
+      "a": [
+        "2 kg",
+        "20 kg",
+        "200 g",
+        "0,2 kg"
+      ],
+      "correct": 0
     },
     {
       "id": 38,
-      "q": "Tìm x biết x + 3 = -2",
-      "a": ["x = 1", "x = -1", "x = 5", "x = -5"],
-      "correct": 3
+      "q": "Nếu y tỉ lệ thuận với x theo hệ số k = 10. Ta có thể viết:",
+      "a": [
+        "y = 10x",
+        "x = 10y",
+        "y = x/10",
+        "xy = 10"
+      ],
+      "correct": 0
     },
     {
       "id": 39,
-      "q": "Tính: (-1) + (-1) + (-1)",
-      "a": ["3", "-3", "0", "-1"],
-      "correct": 1
+      "q": "Cho ba số x, y, z tỉ lệ với 2; 3; 4 và x + y + z = 18. Giá trị của x là:",
+      "a": [
+        "4",
+        "6",
+        "8",
+        "2"
+      ],
+      "correct": 0
     },
     {
       "id": 40,
-      "q": "Trong tập hợp số nguyên Z, khẳng định nào đúng?",
-      "a": ["Mọi số nguyên âm đều nhỏ hơn 0", "Mọi số nguyên âm đều lớn hơn 0", "Số 0 là số nguyên dương", "Số 0 là số nguyên âm"],
+      "q": "Một thanh kim loại đồng chất có khối lượng m tỉ lệ thuận với thể tích V. Nếu thể tích tăng 2 lần thì khối lượng m sẽ:",
+      "a": [
+        "Tăng 2 lần",
+        "Giảm 2 lần",
+        "Tăng 4 lần",
+        "Không thay đổi"
+      ],
       "correct": 0
-    },
-    {
-      "id": 41,
-      "q": "Sắp xếp các số sau theo thứ tự tăng dần: -2; 4; 0; -5",
-      "a": ["0; 4; -2; -5", "-5; -2; 0; 4", "4; 0; -2; -5", "-2; -5; 0; 4"],
-      "correct": 1
-    },
-    {
-      "id": 42,
-      "q": "Kết quả của 100 - (50 + 40) là:",
-      "a": ["10", "90", "190", "-10"],
-      "correct": 0
-    },
-    {
-      "id": 43,
-      "q": "Kết quả của 20 - (10 - 5) là:",
-      "a": ["5", "15", "25", "-5"],
-      "correct": 1
-    },
-    {
-      "id": 44,
-      "q": "Cho x = -2. Giá trị của x + 5 là:",
-      "a": ["3", "-3", "7", "-7"],
-      "correct": 0
-    },
-    {
-      "id": 45,
-      "q": "Cho a = 10, b = -5. Tính a - b",
-      "a": ["5", "15", "-5", "-15"],
-      "correct": 1
-    },
-    {
-      "id": 46,
-      "q": "Biểu thức a - (b + c) khi bỏ ngoặc là:",
-      "a": ["a - b + c", "a - b - c", "a + b - c", "a + b + c"],
-      "correct": 1
-    },
-    {
-      "id": 47,
-      "q": "Tính: (-200) + 200",
-      "a": ["-400", "400", "0", "1"],
-      "correct": 2
-    },
-    {
-      "id": 48,
-      "q": "Tính: 34 + (-30)",
-      "a": ["64", "-64", "4", "-4"],
-      "correct": 2
-    },
-    {
-      "id": 49,
-      "q": "Kết quả của phép tính (-15) + (-5) + 10 là:",
-      "a": ["-10", "-30", "10", "30"],
-      "correct": 0
-    },
-    {
-      "id": 50,
-      "q": "Tìm x biết -x = 10",
-      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
-      "correct": 1
-    },
-    {
-      "id": 51,
-      "q": "Tìm số nguyên x thỏa mãn: -2 < x < 1",
-      "a": ["x thuộc {-1; 0}", "x thuộc {-2; -1; 0}", "x thuộc {-1; 0; 1}", "x thuộc {0; 1}"],
-      "correct": 0
-    },
-    {
-      "id": 52,
-      "q": "Tính tổng: (-10) + (-20) + (-30)",
-      "a": ["-60", "60", "0", "-50"],
-      "correct": 0
-    },
-    {
-      "id": 53,
-      "q": "Kết quả của phép tính: (-4) + (-6) + 5",
-      "a": ["-5", "-15", "5", "15"],
-      "correct": 0
-    },
-    {
-      "id": 54,
-      "q": "Chọn câu sai:",
-      "a": ["(-3) + (-5) = -8", "(-3) + 5 = 2", "3 + (-5) = -2", "(-3) - 5 = 2"],
-      "correct": 3
-    },
-    {
-      "id": 55,
-      "q": "Nhiệt độ buổi trưa là 30 độ C. Buổi tối giảm 5 độ C. Nhiệt độ buổi tối là:",
-      "a": ["25 độ C", "35 độ C", "-25 độ C", "5 độ C"],
-      "correct": 0
-    },
-    {
-      "id": 56,
-      "q": "Một thang máy đang ở tầng 10, đi xuống 3 tầng. Thang máy đang ở tầng mấy?",
-      "a": ["Tầng 13", "Tầng 7", "Tầng -7", "Tầng -3"],
-      "correct": 1
-    },
-    {
-      "id": 57,
-      "q": "Tính giá trị của biểu thức A = x - 5 tại x = 2",
-      "a": ["-3", "3", "7", "-7"],
-      "correct": 0
-    },
-    {
-      "id": 58,
-      "q": "Kết quả của phép tính: 123 + (-123)",
-      "a": ["246", "0", "-246", "1"],
-      "correct": 1
-    },
-    {
-      "id": 59,
-      "q": "Tính: (-9) + 9 + (-5)",
-      "a": ["-5", "5", "23", "-23"],
-      "correct": 0
-    },
-    {
-      "id": 60,
-      "q": "Số nào cộng với (-8) thì bằng 0?",
-      "a": ["-8", "0", "8", "1"],
-      "correct": 2
     }
   ]
 }
