@@ -1,8 +1,11 @@
+Dưới đây là mã JSON gộp đầy đủ 40 câu hỏi trắc nghiệm về chủ đề **Hai tam giác bằng nhau** dựa trên nội dung từ các nguồn tài liệu (Chương 8, Bài 2) và lịch sử trò chuyện của chúng ta. Tất cả các câu hỏi đều tuân thủ quy tắc: đáp án đúng nằm ở vị trí đầu tiên (index 0) và giá trị `correct` luôn bằng 0.
+
+```json
 {
   "questions": [
     {
       "id": 1,
-      "q": "Theo định nghĩa, hai tam giác bằng nhau là hai tam giác có các yếu tố nào sau đây bằng nhau?",
+      "q": "Theo định nghĩa trong các nguồn tài liệu, hai tam giác bằng nhau là hai tam giác có:",
       "a": [
         "Các cạnh tương ứng bằng nhau và các góc tương ứng bằng nhau",
         "Ba cạnh bằng nhau và ba góc bất kì bằng nhau",
@@ -13,7 +16,7 @@
     },
     {
       "id": 2,
-      "q": "Khi viết kí hiệu hai tam giác bằng nhau, ta cần lưu ý quy tắc nào?",
+      "q": "Khi viết kí hiệu hai tam giác bằng nhau, chẳng hạn ΔABC = ΔA'B'C', quy tắc nào sau đây là bắt buộc?",
       "a": [
         "Các đỉnh tương ứng phải được viết theo cùng thứ tự",
         "Viết tên các đỉnh theo thứ tự bảng chữ cái",
@@ -24,7 +27,7 @@
     },
     {
       "id": 3,
-      "q": "Nếu tam giác ABC bằng tam giác MNP thì cạnh tương ứng với cạnh AC là:",
+      "q": "Nếu ΔABC = ΔMNP, dựa vào các nguồn tài liệu, cạnh tương ứng với cạnh AC là:",
       "a": [
         "Cạnh MP",
         "Cạnh MN",
@@ -35,18 +38,18 @@
     },
     {
       "id": 4,
-      "q": "Cho ∆ABC = ∆DEF. Khẳng định nào sau đây về góc là đúng?",
+      "q": "Cho ΔABC = ΔDEF. Khẳng định nào sau đây về các góc tương ứng là đúng?",
       "a": [
-        "Góc A bằng góc D",
-        "Góc A bằng góc E",
-        "Góc B bằng góc D",
-        "Góc C bằng góc E"
+        "Góc A = Góc D, Góc B = Góc E, Góc C = Góc F",
+        "Góc A = Góc E",
+        "Góc B = Góc D",
+        "Góc C = Góc E"
       ],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Trường hợp bằng nhau thứ nhất của tam giác (cạnh – cạnh – cạnh) phát biểu rằng:",
+      "q": "Trường hợp bằng nhau thứ nhất (cạnh – cạnh – cạnh) của tam giác phát biểu rằng:",
       "a": [
         "Nếu ba cạnh của tam giác này bằng ba cạnh của tam giác kia thì hai tam giác đó bằng nhau",
         "Nếu hai cạnh và một góc của tam giác này bằng hai cạnh và một góc của tam giác kia thì hai tam giác đó bằng nhau",
@@ -57,7 +60,7 @@
     },
     {
       "id": 6,
-      "q": "Để hai tam giác bằng nhau theo trường hợp cạnh – góc – cạnh (c.g.c), góc bằng nhau phải là:",
+      "q": "Theo các nguồn tài liệu, để hai tam giác bằng nhau theo trường hợp cạnh – góc – cạnh (c.g.c), điều kiện về góc là:",
       "a": [
         "Góc xen giữa hai cạnh bằng nhau",
         "Góc đối diện với cạnh lớn hơn",
@@ -68,18 +71,18 @@
     },
     {
       "id": 7,
-      "q": "Trường hợp bằng nhau góc – cạnh – góc (g.c.g) yêu cầu điều kiện gì về cạnh?",
+      "q": "Trong trường hợp bằng nhau góc – cạnh – góc (g.c.g), cạnh được xét phải có vị trí:",
       "a": [
-        "Cạnh phải là cạnh kề của hai góc được xét",
-        "Cạnh phải là cạnh đối diện của một trong hai góc",
-        "Cạnh phải là cạnh lớn nhất trong tam giác",
-        "Cạnh phải là cạnh huyền của tam giác"
+        "Là cạnh kề của hai góc được xét",
+        "Là cạnh đối diện của một trong hai góc",
+        "Là cạnh lớn nhất trong tam giác",
+        "Là cạnh huyền của tam giác"
       ],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Nếu hai tam giác có ba góc bằng nhau từng đôi một thì:",
+      "q": "Nếu hai tam giác có ba góc bằng nhau từng đôi một (G.G.G) thì:",
       "a": [
         "Chưa đủ điều kiện để kết luận hai tam giác đó bằng nhau",
         "Hai tam giác đó chắc chắn bằng nhau theo trường hợp g.c.g",
@@ -90,29 +93,29 @@
     },
     {
       "id": 9,
-      "q": "Hai tam giác vuông bằng nhau nếu có hai cạnh góc vuông bằng nhau. Đây là hệ quả của trường hợp nào?",
+      "q": "Trường hợp hai tam giác vuông bằng nhau có hai cạnh góc vuông tương ứng bằng nhau là hệ quả của:",
       "a": [
-        "Cạnh – Góc – Cạnh (c.g.c)",
-        "Cạnh – Cạnh – Cạnh (c.c.c)",
-        "Góc – Cạnh – Góc (g.c.g)",
-        "Cạnh huyền – Góc nhọn"
+        "Trường hợp cạnh – góc – cạnh (c.g.c)",
+        "Trường hợp cạnh – cạnh – cạnh (c.c.c)",
+        "Trường hợp góc – cạnh – góc (g.c.g)",
+        "Trường hợp cạnh huyền – góc nhọn"
       ],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Trường hợp bằng nhau 'Cạnh huyền – Góc nhọn' là một trường hợp đặc biệt của:",
+      "q": "Trường hợp bằng nhau 'cạnh huyền – góc nhọn' được áp dụng riêng cho loại tam giác nào?",
       "a": [
-        "Hai tam giác vuông",
-        "Hai tam giác cân",
-        "Hai tam giác đều",
-        "Hai tam giác tù"
+        "Tam giác vuông",
+        "Tam giác cân",
+        "Tam giác đều",
+        "Tam giác tù"
       ],
       "correct": 0
     },
     {
       "id": 11,
-      "q": "Để ∆ABC và ∆DEF bằng nhau theo trường hợp c.c.c, khi đã có AB=DE và BC=EF, cần thêm điều kiện:",
+      "q": "Để ΔABC và ΔDEF bằng nhau theo trường hợp c.c.c, khi đã có AB = DE và BC = EF, cần thêm điều kiện nào?",
       "a": [
         "AC = DF",
         "Góc B = Góc E",
@@ -134,7 +137,7 @@
     },
     {
       "id": 13,
-      "q": "Nếu ∆HIK = ∆EGT, đỉnh tương ứng với đỉnh I là:",
+      "q": "Nếu ΔHIK = ΔEGT theo đúng thứ tự đỉnh tương ứng, đỉnh tương ứng với đỉnh I là:",
       "a": [
         "Đỉnh G",
         "Đỉnh E",
@@ -145,51 +148,51 @@
     },
     {
       "id": 14,
-      "q": "Hai tam giác vuông bằng nhau theo trường hợp 'cạnh huyền – cạnh góc vuông' được chứng minh dựa trên đặc điểm của loại hình nào?",
+      "q": "Theo các nguồn tài liệu, hai tam giác vuông bằng nhau nếu cạnh huyền và một cạnh góc vuông của tam giác này bằng của tam giác kia. Đây là trường hợp:",
       "a": [
-        "Tam giác vuông",
-        "Tam giác nhọn",
-        "Tam giác tù",
-        "Hình thang"
+        "Cạnh huyền – cạnh góc vuông",
+        "Cạnh huyền – góc nhọn",
+        "Hai cạnh góc vuông",
+        "Góc – cạnh – góc"
       ],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Cho ∆ABC = ∆DEF có góc A = 50 độ, góc B = 70 độ. Số đo của góc F là:",
+      "q": "Cho ΔABC = ΔDEF có góc A = 50°, góc B = 70°. Tính số đo của góc F?",
       "a": [
-        "60 độ",
-        "50 độ",
-        "70 độ",
-        "120 độ"
+        "60°",
+        "50°",
+        "70°",
+        "120°"
       ],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Nếu hai tam giác bằng nhau thì chu vi của chúng như thế nào?",
+      "q": "Khi hai tam giác bằng nhau, khẳng định nào sau đây về chu vi là đúng?",
       "a": [
-        "Luôn luôn bằng nhau",
-        "Có thể khác nhau tùy vào loại tam giác",
-        "Chỉ bằng nhau khi đó là tam giác đều",
-        "Bằng nhau nhưng diện tích phải khác nhau"
+        "Chu vi của chúng luôn luôn bằng nhau",
+        "Chu vi của chúng có thể khác nhau",
+        "Chỉ bằng nhau nếu là tam giác đều",
+        "Bằng nhau nhưng diện tích khác nhau"
       ],
       "correct": 0
     },
     {
       "id": 17,
-      "q": "Đặc điểm của hai tam giác bằng nhau là khi đặt chồng lên nhau, chúng sẽ:",
+      "q": "Theo các nguồn tài liệu, đặc điểm hình học của hai tam giác bằng nhau là khi đặt chúng lên nhau, chúng sẽ:",
       "a": [
         "Chồng khít lên nhau",
-        "Chỉ trùng nhau về các đỉnh",
+        "Chỉ trùng nhau các đỉnh",
         "Chỉ trùng nhau về diện tích",
-        "Không thể trùng khít"
+        "Không bao giờ trùng khít"
       ],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Trường hợp bằng nhau 'một cạnh góc vuông và góc nhọn kề' của tam giác vuông là hệ quả của:",
+      "q": "Trường hợp bằng nhau 'một cạnh góc vuông và góc nhọn kề' của tam giác vuông là hệ quả từ:",
       "a": [
         "Trường hợp góc – cạnh – góc (g.c.g)",
         "Trường hợp cạnh – cạnh – cạnh (c.c.c)",
@@ -200,26 +203,246 @@
     },
     {
       "id": 19,
-      "q": "Cho ∆MNP = ∆ABC. Nếu chu vi ∆MNP là 20cm thì chu vi ∆ABC là:",
+      "q": "Cho ΔMNP = ΔABC. Nếu chu vi ΔMNP là 20cm thì chu vi ΔABC là:",
       "a": [
         "20cm",
         "10cm",
         "40cm",
-        "Chưa đủ dữ kiện để tính"
+        "Không thể xác định"
       ],
       "correct": 0
     },
     {
       "id": 20,
-      "q": "Góc kề cạnh BC trong tam giác ABC bao gồm các góc nào?",
+      "q": "Góc kề cạnh BC trong tam giác ABC bao gồm các góc nào theo lý thuyết?",
       "a": [
         "Góc B và góc C",
         "Góc A và góc B",
         "Góc A và góc C",
-        "Chỉ có góc A"
+        "Chỉ góc A"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Nếu ΔABC = ΔMNP và đỉnh A tương ứng với đỉnh M, đỉnh B tương ứng với đỉnh N thì đỉnh C tương ứng với đỉnh nào?",
+      "a": [
+        "Đỉnh P",
+        "Đỉnh M",
+        "Đỉnh N",
+        "Đỉnh D"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Cho ΔMNP = ΔDEF. Cạnh tương ứng với cạnh MN là cạnh nào?",
+      "a": [
+        "Cạnh DE",
+        "Cạnh DF",
+        "Cạnh EF",
+        "Cạnh NP"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Trong các nguồn tài liệu, khi ba cạnh của tam giác này bằng ba cạnh của tam giác kia, ta kết luận chúng bằng nhau theo:",
+      "a": [
+        "Trường hợp c.c.c",
+        "Trường hợp c.g.c",
+        "Trường hợp g.c.g",
+        "Trường hợp g.g.g"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Yêu cầu bắt buộc của trường hợp cạnh - góc - cạnh (c.g.c) là góc phải nằm ở đâu?",
+      "a": [
+        "Góc xen giữa hai cạnh đó",
+        "Góc đối diện cạnh lớn nhất",
+        "Góc vuông",
+        "Góc nhọn bất kì"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Một hệ quả của trường hợp g.c.g trong tam giác vuông là bằng nhau khi có:",
+      "a": [
+        "Cạnh góc vuông và góc nhọn kề cạnh ấy bằng nhau",
+        "Hai cạnh huyền bằng nhau",
+        "Ba góc bằng nhau",
+        "Chu vi bằng nhau"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Để ΔABC và ΔDEF (vuông tại A và D) bằng nhau theo 'cạnh huyền - góc nhọn', cần điều kiện:",
+      "a": [
+        "BC = EF và góc B = góc E",
+        "AB = DE và AC = DF",
+        "BC = EF và AC = DF",
+        "Góc B = góc E và góc C = góc F"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Cho ΔABC và ΔABD có cạnh AB chung, AC = AD, BC = BD. Ta kết luận ΔABC = ΔABD theo:",
+      "a": [
+        "Trường hợp c.c.c",
+        "Trường hợp c.g.c",
+        "Trường hợp g.c.g",
+        "Hệ quả tam giác vuông"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Trường hợp bằng nhau 'cạnh huyền - cạnh góc vuông' chỉ dùng cho loại hình nào sau đây?",
+      "a": [
+        "Hai tam giác vuông",
+        "Hai tam giác cân",
+        "Hai tam giác đều",
+        "Hai tam giác nhọn"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Nếu ΔHIK = ΔMSP, khẳng định nào dưới đây là sai về các cạnh tương ứng?",
+      "a": [
+        "HI = MP",
+        "HK = MP",
+        "IK = SP",
+        "Góc H = Góc M"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Cho ΔABC = ΔMNP. Biết AB = 5cm, MN = 5cm, MP = 7cm. Độ dài AC tương ứng là:",
+      "a": [
+        "7cm",
+        "5cm",
+        "12cm",
+        "Không đủ dữ kiện"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Dựa trên định nghĩa, hai tam giác bằng nhau thì có diện tích như thế nào?",
+      "a": [
+        "Luôn bằng nhau",
+        "Luôn khác nhau",
+        "Chỉ bằng nhau nếu là tam giác vuông",
+        "Chỉ bằng nhau nếu là tam giác đều"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Nếu ΔABC = ΔDEF và góc A = 60°, góc E = 80°. Tính số đo góc C?",
+      "a": [
+        "40°",
+        "60°",
+        "80°",
+        "140°"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Khi chứng minh hai tam giác bằng nhau, một cạnh chung được coi là:",
+      "a": [
+        "Một cặp cạnh tương ứng bằng nhau",
+        "Điều kiện không hợp lệ",
+        "Chỉ dùng cho tam giác vuông",
+        "Chỉ dùng cho trường hợp c.c.c"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Cho ΔABC và ΔMNP có AB = MN, góc B = góc N, BC = NP. Hai tam giác bằng nhau theo:",
+      "a": [
+        "Cạnh - Góc - Cạnh (c.g.c)",
+        "Cạnh - Cạnh - Cạnh (c.c.c)",
+        "Góc - Cạnh - Góc (g.c.g)",
+        "Cạnh huyền - Góc nhọn"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Trong ΔABC, các góc kề với cạnh AC được xác định là:",
+      "a": [
+        "Góc A và góc C",
+        "Góc A và góc B",
+        "Góc B và góc C",
+        "Chỉ góc B"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Trường hợp bằng nhau thứ ba (g.c.g) phát biểu về yếu tố nào?",
+      "a": [
+        "Một cạnh và hai góc kề của tam giác này bằng của tam giác kia",
+        "Ba cạnh tương ứng bằng nhau",
+        "Ba góc tương ứng bằng nhau",
+        "Hai cạnh và một góc xen giữa bằng nhau"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Cho ΔABC vuông tại A và ΔMNP vuông tại M. Nếu có AB = MN và BC = NP thì chúng bằng nhau theo:",
+      "a": [
+        "Cạnh huyền - Cạnh góc vuông",
+        "Cạnh huyền - Góc nhọn",
+        "Hai cạnh góc vuông",
+        "Góc - Cạnh - Góc"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Nếu ΔABC = ΔDEF và chu vi ΔABC là 15cm. Chu vi ΔDEF sẽ bằng:",
+      "a": [
+        "15cm",
+        "30cm",
+        "7.5cm",
+        "20cm"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Kiến thức về tổng ba góc trong một tam giác là bao nhiêu độ theo các nguồn tài liệu?",
+      "a": [
+        "180°",
+        "90°",
+        "360°",
+        "120°"
+      ],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Công cụ 'hai tam giác bằng nhau' chủ yếu dùng để chứng minh điều gì trong hình học?",
+      "a": [
+        "Các đoạn thẳng bằng nhau hoặc các góc bằng nhau",
+        "Diện tích các hình khác nhau",
+        "Hai đường thẳng vuông góc",
+        "Độ dài cạnh lớn nhất"
       ],
       "correct": 0
     }
   ]
 }
-
+```
