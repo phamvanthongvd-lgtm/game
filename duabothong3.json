@@ -2,363 +2,444 @@
   "questions": [
     {
       "id": 1,
-      "q": "Số đối của số -7 là:",
-      "a": ["7", "-7", "0", "1/7"],
+      "q": "Tìm giá trị của \\frac{3}{5} của 50 mét:",
+      "a": [
+        "30 m",
+        "10 m",
+        "250 m",
+        "15 m"
+      ],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Số đối của số 15 là:",
-      "a": ["15", "-15", "0", "51"],
-      "correct": 1
+      "q": "Tìm giá trị của \\frac{3}{4} của 160 kg:",
+      "a": [
+        "120 kg",
+        "40 kg",
+        "480 kg",
+        "80 kg"
+      ],
+      "correct": 0
     },
     {
       "id": 3,
-      "q": "Số nguyên âm nhỏ nhất có 1 chữ số là:",
-      "a": ["-1", "-9", "0", "1"],
-      "correct": 1
+      "q": "Tìm giá trị của \\frac{3}{2} của \\frac{1}{2} giờ:",
+      "a": [
+        "\\frac{3}{4} giờ",
+        "\\frac{1}{4} giờ",
+        "\\frac{3}{2} giờ",
+        "1 giờ"
+      ],
+      "correct": 0
     },
     {
       "id": 4,
-      "q": "Tổng của hai số nguyên đối nhau bằng:",
-      "a": ["1", "-1", "0", "10"],
-      "correct": 2
+      "q": "Tìm giá trị của \\frac{5}{8} của \\frac{1}{3} ngày:",
+      "a": [
+        "\\frac{5}{24} ngày",
+        "\\frac{8}{15} ngày",
+        "\\frac{5}{11} ngày",
+        "\\frac{1}{24} ngày"
+      ],
+      "correct": 0
     },
     {
       "id": 5,
-      "q": "Giá trị tuyệt đối của -10 là:",
-      "a": ["-10", "10", "0", "-1"],
-      "correct": 1
+      "q": "Một quả cam nặng 300 g. Hỏi \\frac{3}{4} quả cam đó nặng bao nhiêu gam?",
+      "a": [
+        "225 g",
+        "100 g",
+        "400 g",
+        "150 g"
+      ],
+      "correct": 0
     },
     {
       "id": 6,
-      "q": "Giá trị tuyệt đối của số 0 là:",
-      "a": ["0", "1", "-1", "Không xác định"],
+      "q": "Bạn Lan có 32 viên bi. Số bi xanh chiếm \\frac{3}{8} tổng số bi. Lan có bao nhiêu viên bi xanh?",
+      "a": [
+        "12 viên",
+        "8 viên",
+        "4 viên",
+        "20 viên"
+      ],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "So sánh -5 và -3:",
-      "a": ["-5 > -3", "-5 < -3", "-5 = -3", "Không so sánh được"],
-      "correct": 1
+      "q": "Bạn Lan có 32 viên bi. Số bi vàng chiếm \\frac{1}{4} tổng số bi. Lan có bao nhiêu viên bi vàng?",
+      "a": [
+        "8 viên",
+        "4 viên",
+        "12 viên",
+        "16 viên"
+      ],
+      "correct": 0
     },
     {
       "id": 8,
-      "q": "Số nguyên liền sau của số -1 là:",
-      "a": ["-2", "0", "1", "-3"],
-      "correct": 1
+      "q": "Một lớp học có 45 học sinh. Số học sinh trung bình chiếm \\frac{7}{15} số học sinh cả lớp. Số học sinh trung bình là:",
+      "a": [
+        "21 học sinh",
+        "3 học sinh",
+        "15 học sinh",
+        "30 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 9,
-      "q": "Số nguyên liền trước của số -5 là:",
-      "a": ["-4", "-6", "0", "-5"],
-      "correct": 1
+      "q": "Trên đĩa có 25 quả táo. Mai ăn \\frac{1}{5} số táo đó. Số táo Mai đã ăn là:",
+      "a": [
+        "5 quả",
+        "1 quả",
+        "10 quả",
+        "20 quả"
+      ],
+      "correct": 0
     },
     {
       "id": 10,
-      "q": "Kết quả của phép tính (-2) + (-3) là:",
-      "a": ["5", "-5", "1", "-1"],
-      "correct": 1
+      "q": "Một cửa hàng có cuộn vải dài 100 m. Ngày thứ nhất bán được \\frac{3}{10} cuộn vải. Số mét vải bán được trong ngày thứ nhất là:",
+      "a": [
+        "30 m",
+        "10 m",
+        "70 m",
+        "3 m"
+      ],
+      "correct": 0
     },
     {
       "id": 11,
-      "q": "Kết quả của phép tính (-10) + (-20) là:",
-      "a": ["-30", "30", "-10", "10"],
+      "q": "Một bồn xăng chứa 800 lít xăng. Lần thứ nhất người ta lấy đi \\frac{2}{5} số xăng. Số xăng lấy đi lần đầu là:",
+      "a": [
+        "320 lít",
+        "160 lít",
+        "400 lít",
+        "480 lít"
+      ],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Kết quả của phép tính 5 + (-2) là:",
-      "a": ["3", "-3", "7", "-7"],
+      "q": "Khối 6 có 120 học sinh. Số học sinh lớp 6A chiếm \\frac{7}{20} số học sinh cả khối. Lớp 6A có số học sinh là:",
+      "a": [
+        "42 học sinh",
+        "6 học sinh",
+        "35 học sinh",
+        "40 học sinh"
+      ],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Kết quả của phép tính (-8) + 10 là:",
-      "a": ["-2", "2", "-18", "18"],
-      "correct": 1
+      "q": "Lớp 6A có 42 học sinh. Số học sinh lớp 6B bằng \\frac{20}{21} số học sinh lớp 6A. Số học sinh lớp 6B là:",
+      "a": [
+        "40 học sinh",
+        "2 học sinh",
+        "41 học sinh",
+        "38 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 14,
-      "q": "Kết quả của phép tính (-5) + 5 là:",
-      "a": ["10", "-10", "0", "5"],
-      "correct": 2
+      "q": "Bác nông dân thu hoạch 30 kg cà chua. Bác đem \\frac{4}{5} số cà chua đi bán. Số cà chua bác bán là:",
+      "a": [
+        "24 kg",
+        "6 kg",
+        "20 kg",
+        "25 kg"
+      ],
+      "correct": 0
     },
     {
       "id": 15,
-      "q": "Muốn cộng hai số nguyên âm, ta làm thế nào?",
-      "a": ["Cộng hai giá trị tuyệt đối rồi đặt dấu \"-\" đằng trước", "Cộng hai giá trị tuyệt đối rồi đặt dấu \"+\" đằng trước", "Lấy số lớn trừ số bé", "Lấy số bé trừ số lớn"],
+      "q": "Một bể cá có chiều cao 20 cm. Lượng nước trong bể cao bằng \\frac{3}{4} chiều cao của bể. Chiều cao của mực nước là:",
+      "a": [
+        "15 cm",
+        "5 cm",
+        "10 cm",
+        "12 cm"
+      ],
       "correct": 0
     },
     {
       "id": 16,
-      "q": "Phép trừ 10 - 15 có kết quả là:",
-      "a": ["5", "-5", "25", "-25"],
-      "correct": 1
+      "q": "Một túi kẹo có 35 chiếc. Số kẹo bọc giấy màu đỏ chiếm \\frac{3}{5} số kẹo trong túi. Số kẹo đỏ là:",
+      "a": [
+        "21 chiếc",
+        "7 chiếc",
+        "15 chiếc",
+        "20 chiếc"
+      ],
+      "correct": 0
     },
     {
       "id": 17,
-      "q": "Phép tính 5 - (-3) được viết lại thành phép cộng nào?",
-      "a": ["5 + 3", "5 + (-3)", "-5 + 3", "-5 + (-3)"],
+      "q": "Tìm \\frac{2}{3} của -5:",
+      "a": [
+        "\\frac{-10}{3}",
+        "\\frac{-15}{2}",
+        "\\frac{10}{3}",
+        "\\frac{-5}{3}"
+      ],
       "correct": 0
     },
     {
       "id": 18,
-      "q": "Kết quả của 7 - (-2) là:",
-      "a": ["5", "9", "-5", "-9"],
-      "correct": 1
+      "q": "Tìm \\frac{2}{3} của \\frac{6}{5}:",
+      "a": [
+        "\\frac{4}{5}",
+        "\\frac{12}{15}",
+        "\\frac{18}{10}",
+        "\\frac{2}{5}"
+      ],
+      "correct": 0
     },
     {
       "id": 19,
-      "q": "Kết quả của (-5) - 4 là:",
-      "a": ["-1", "1", "-9", "9"],
-      "correct": 2
+      "q": "Ngày thứ nhất Đào đọc \\frac{1}{4} số trang của quyển sách. Nếu quyển sách có 160 trang thì ngày thứ nhất Đào đọc được:",
+      "a": [
+        "40 trang",
+        "120 trang",
+        "80 trang",
+        "20 trang"
+      ],
+      "correct": 0
     },
     {
       "id": 20,
-      "q": "Kết quả của (-10) - (-10) là:",
-      "a": ["-20", "20", "0", "10"],
-      "correct": 2
+      "q": "Một tủ sách có 180 cuốn. Số sách ngăn thứ hai bằng \\frac{2}{3} số sách ngăn thứ nhất. Nếu ngăn thứ nhất có 72 cuốn thì ngăn thứ hai có:",
+      "a": [
+        "48 cuốn",
+        "24 cuốn",
+        "108 cuốn",
+        "36 cuốn"
+      ],
+      "correct": 0
     },
     {
       "id": 21,
-      "q": "Tìm x biết x + 2 = 5",
-      "a": ["x = 3", "x = -3", "x = 7", "x = -7"],
+      "q": "Tìm một số x, biết \\frac{3}{7} của x là 27:",
+      "a": [
+        "63",
+        "\\frac{81}{7}",
+        "9",
+        "49"
+      ],
       "correct": 0
     },
     {
       "id": 22,
-      "q": "Tìm x biết x + 10 = 0",
-      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
-      "correct": 1
+      "q": "Tìm một số x, biết \\frac{4}{5} của x là \\frac{-9}{2}:",
+      "a": [
+        "\\frac{-45}{8}",
+        "\\frac{-18}{5}",
+        "\\frac{-36}{10}",
+        "\\frac{45}{8}"
+      ],
+      "correct": 0
     },
     {
       "id": 23,
-      "q": "Tìm x biết x - 5 = -2",
-      "a": ["x = 3", "x = -3", "x = -7", "x = 7"],
+      "q": "Tìm một số x, biết \\frac{11}{12} của x là \\frac{9}{8}:",
+      "a": [
+        "\\frac{27}{22}",
+        "\\frac{33}{32}",
+        "\\frac{99}{96}",
+        "\\frac{22}{27}"
+      ],
       "correct": 0
     },
     {
       "id": 24,
-      "q": "Tìm x biết 5 - x = 2",
-      "a": ["x = 7", "x = -3", "x = 3", "x = -7"],
-      "correct": 2
+      "q": "Tìm một số x, biết \\frac{5}{6} của x là \\frac{-1}{2}:",
+      "a": [
+        "\\frac{-3}{5}",
+        "\\frac{-5}{12}",
+        "\\frac{-6}{10}",
+        "\\frac{3}{5}"
+      ],
+      "correct": 0
     },
     {
       "id": 25,
-      "q": "Kết quả của phép tính 0 - 15 là:",
-      "a": ["15", "-15", "0", "1"],
-      "correct": 1
+      "q": "Biết \\frac{2}{3} quả dưa hấu nặng \\frac{9}{2} kg. Quả dưa hấu đó nặng bao nhiêu kg?",
+      "a": [
+        "\\frac{27}{4} kg",
+        "3 kg",
+        "\\frac{18}{6} kg",
+        "9 kg"
+      ],
+      "correct": 0
     },
     {
       "id": 26,
-      "q": "Tính: |-5| + |-3|",
-      "a": ["-8", "8", "2", "-2"],
-      "correct": 1
+      "q": "Lớp 6A có 15 học sinh giỏi, chiếm \\frac{1}{3} tổng số học sinh cả lớp. Tổng số học sinh lớp 6A là:",
+      "a": [
+        "45 học sinh",
+        "5 học sinh",
+        "30 học sinh",
+        "60 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 27,
-      "q": "Nhiệt độ đang là 2 độ C, giảm đi 5 độ C thì còn bao nhiêu độ?",
-      "a": ["3 độ C", "-3 độ C", "7 độ C", "-7 độ C"],
-      "correct": 1
+      "q": "Lớp Oanh có 18 bạn nữ, chiếm \\frac{2}{3} số học sinh cả lớp. Số học sinh cả lớp Oanh là:",
+      "a": [
+        "27 học sinh",
+        "12 học sinh",
+        "36 học sinh",
+        "54 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 28,
-      "q": "Độ cao của tàu ngầm là -20m. Tàu lặn xuống thêm 10m nữa. Độ cao mới là:",
-      "a": ["-10m", "-30m", "10m", "30m"],
-      "correct": 1
+      "q": "Biết \\frac{2}{3} số tuổi của Mai cách đây 3 năm là 6 tuổi. Tuổi của Mai khi đó là:",
+      "a": [
+        "9 tuổi",
+        "4 tuổi",
+        "12 tuổi",
+        "18 tuổi"
+      ],
+      "correct": 0
     },
     {
       "id": 29,
-      "q": "Bạn An nợ bạn Bình 10 ngàn (ghi là -10). Bạn An mượn thêm 5 ngàn nữa. Số tiền của An được ghi là:",
-      "a": ["-5", "-15", "15", "5"],
-      "correct": 1
+      "q": "Lớp 6A có 15 học sinh xếp loại trung bình, chiếm \\frac{5}{16} số học sinh cả lớp. Số học sinh lớp 6A là:",
+      "a": [
+        "48 học sinh",
+        "3 học sinh",
+        "75 học sinh",
+        "32 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 30,
-      "q": "Khi bỏ dấu ngoặc có dấu \"+\" đằng trước thì:",
-      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Đổi dấu số hạng đầu tiên", "Xóa hết các số hạng"],
+      "q": "Một người bán trứng, sau khi bán \\frac{5}{8} số trứng thì còn lại 21 quả. Tổng số trứng người đó mang đi bán là:",
+      "a": [
+        "56 quả",
+        "33,6 quả",
+        "13 quả",
+        "64 quả"
+      ],
       "correct": 0
     },
     {
       "id": 31,
-      "q": "Khi bỏ dấu ngoặc có dấu \"-\" đằng trước thì:",
-      "a": ["Giữ nguyên dấu các số hạng trong ngoặc", "Đổi dấu các số hạng trong ngoặc", "Giữ nguyên số hạng đầu tiên", "Xóa hết các số hạng"],
-      "correct": 1
+      "q": "Tìm x biết \\frac{3}{4} của x là -5:",
+      "a": [
+        "\\frac{-20}{3}",
+        "\\frac{-15}{4}",
+        "\\frac{20}{3}",
+        "\\frac{-15}{3}"
+      ],
+      "correct": 0
     },
     {
       "id": 32,
-      "q": "Kết quả của -(3 + 4) là:",
-      "a": ["7", "-7", "1", "-1"],
-      "correct": 1
+      "q": "Tìm x biết \\frac{3}{4} của x là \\frac{5}{6}:",
+      "a": [
+        "\\frac{10}{9}",
+        "\\frac{15}{24}",
+        "\\frac{5}{8}",
+        "\\frac{20}{18}"
+      ],
+      "correct": 0
     },
     {
       "id": 33,
-      "q": "Kết quả của -(-5 + 2) là:",
-      "a": ["-3", "3", "7", "-7"],
-      "correct": 1
+      "q": "Bạn Thanh rót sữa từ một hộp đầy vào cốc 180 ml. Lượng sữa trong hộp còn lại \\frac{4}{5} dung tích hộp. Dung tích hộp sữa là:",
+      "a": [
+        "900 ml",
+        "720 ml",
+        "36 ml",
+        "225 ml"
+      ],
+      "correct": 0
     },
     {
       "id": 34,
-      "q": "Tính nhanh: 28 + (-15) + (-28)",
-      "a": ["15", "-15", "56", "-56"],
-      "correct": 1
+      "q": "Số đậu đũa vừa thu hoạch bằng \\frac{3}{4} số đậu hiện có trong vườn. Nếu số thu hoạch được là 12 kg thì số đậu hiện có trong vườn là:",
+      "a": [
+        "16 kg",
+        "9 kg",
+        "48 kg",
+        "36 kg"
+      ],
+      "correct": 0
     },
     {
       "id": 35,
-      "q": "Tính nhanh: 12 + (-5) + 8",
-      "a": ["20", "25", "15", "10"],
-      "correct": 2
+      "q": "Tìm một số biết \\frac{1}{2} của nó là 18:",
+      "a": [
+        "36",
+        "9",
+        "18",
+        "54"
+      ],
+      "correct": 0
     },
     {
       "id": 36,
-      "q": "Phép tính nào có kết quả bằng 0?",
-      "a": ["(-5) - 5", "(-5) + 5", "5 + 5", "(-5) + (-5)"],
-      "correct": 1
+      "q": "Nếu \\frac{1}{4} số trang của một quyển sách là 40 trang thì quyển sách đó dày bao nhiêu trang?",
+      "a": [
+        "160 trang",
+        "10 trang",
+        "80 trang",
+        "120 trang"
+      ],
+      "correct": 0
     },
     {
       "id": 37,
-      "q": "Phép tính nào có kết quả là số dương?",
-      "a": ["(-5) + (-3)", "(-10) + 2", "5 + (-1)", "(-100) + 1"],
-      "correct": 2
+      "q": "Sau khi bán đi \\frac{3}{7} số cam, người đó còn lại 48 quả. Số cam ban đầu là:",
+      "a": [
+        "84 quả",
+        "112 quả",
+        "36 quả",
+        "64 quả"
+      ],
+      "correct": 0
     },
     {
       "id": 38,
-      "q": "Tìm x biết x + 3 = -2",
-      "a": ["x = 1", "x = -1", "x = 5", "x = -5"],
-      "correct": 3
+      "q": "Nga đọc ngày thứ hai được \\frac{2}{3} số trang còn lại của quyển sách. Nếu số trang ngày thứ ba đọc nốt là 30 trang thì số trang còn lại sau ngày thứ nhất là:",
+      "a": [
+        "90 trang",
+        "20 trang",
+        "60 trang",
+        "45 trang"
+      ],
+      "correct": 0
     },
     {
       "id": 39,
-      "q": "Tính: (-1) + (-1) + (-1)",
-      "a": ["3", "-3", "0", "-1"],
-      "correct": 1
+      "q": "Biết \\frac{3}{10} số học sinh một lớp là 12 học sinh. Số học sinh của lớp đó là:",
+      "a": [
+        "40 học sinh",
+        "36 học sinh",
+        "4 học sinh",
+        "120 học sinh"
+      ],
+      "correct": 0
     },
     {
       "id": 40,
-      "q": "Trong tập hợp số nguyên Z, khẳng định nào đúng?",
-      "a": ["Mọi số nguyên âm đều nhỏ hơn 0", "Mọi số nguyên âm đều lớn hơn 0", "Số 0 là số nguyên dương", "Số 0 là số nguyên âm"],
+      "q": "Biết \\frac{1}{3} số tiền của An là 20.000 đồng. Số tiền An có là:",
+      "a": [
+        "60.000 đồng",
+        "40.000 đồng",
+        "20.000 đồng",
+        "80.000 đồng"
+      ],
       "correct": 0
-    },
-    {
-      "id": 41,
-      "q": "Sắp xếp các số sau theo thứ tự tăng dần: -2; 4; 0; -5",
-      "a": ["0; 4; -2; -5", "-5; -2; 0; 4", "4; 0; -2; -5", "-2; -5; 0; 4"],
-      "correct": 1
-    },
-    {
-      "id": 42,
-      "q": "Kết quả của 100 - (50 + 40) là:",
-      "a": ["10", "90", "190", "-10"],
-      "correct": 0
-    },
-    {
-      "id": 43,
-      "q": "Kết quả của 20 - (10 - 5) là:",
-      "a": ["5", "15", "25", "-5"],
-      "correct": 1
-    },
-    {
-      "id": 44,
-      "q": "Cho x = -2. Giá trị của x + 5 là:",
-      "a": ["3", "-3", "7", "-7"],
-      "correct": 0
-    },
-    {
-      "id": 45,
-      "q": "Cho a = 10, b = -5. Tính a - b",
-      "a": ["5", "15", "-5", "-15"],
-      "correct": 1
-    },
-    {
-      "id": 46,
-      "q": "Biểu thức a - (b + c) khi bỏ ngoặc là:",
-      "a": ["a - b + c", "a - b - c", "a + b - c", "a + b + c"],
-      "correct": 1
-    },
-    {
-      "id": 47,
-      "q": "Tính: (-200) + 200",
-      "a": ["-400", "400", "0", "1"],
-      "correct": 2
-    },
-    {
-      "id": 48,
-      "q": "Tính: 34 + (-30)",
-      "a": ["64", "-64", "4", "-4"],
-      "correct": 2
-    },
-    {
-      "id": 49,
-      "q": "Kết quả của phép tính (-15) + (-5) + 10 là:",
-      "a": ["-10", "-30", "10", "30"],
-      "correct": 0
-    },
-    {
-      "id": 50,
-      "q": "Tìm x biết -x = 10",
-      "a": ["x = 10", "x = -10", "x = 0", "x = 1"],
-      "correct": 1
-    },
-    {
-      "id": 51,
-      "q": "Tìm số nguyên x thỏa mãn: -2 < x < 1",
-      "a": ["x thuộc {-1; 0}", "x thuộc {-2; -1; 0}", "x thuộc {-1; 0; 1}", "x thuộc {0; 1}"],
-      "correct": 0
-    },
-    {
-      "id": 52,
-      "q": "Tính tổng: (-10) + (-20) + (-30)",
-      "a": ["-60", "60", "0", "-50"],
-      "correct": 0
-    },
-    {
-      "id": 53,
-      "q": "Kết quả của phép tính: (-4) + (-6) + 5",
-      "a": ["-5", "-15", "5", "15"],
-      "correct": 0
-    },
-    {
-      "id": 54,
-      "q": "Chọn câu sai:",
-      "a": ["(-3) + (-5) = -8", "(-3) + 5 = 2", "3 + (-5) = -2", "(-3) - 5 = 2"],
-      "correct": 3
-    },
-    {
-      "id": 55,
-      "q": "Nhiệt độ buổi trưa là 30 độ C. Buổi tối giảm 5 độ C. Nhiệt độ buổi tối là:",
-      "a": ["25 độ C", "35 độ C", "-25 độ C", "5 độ C"],
-      "correct": 0
-    },
-    {
-      "id": 56,
-      "q": "Một thang máy đang ở tầng 10, đi xuống 3 tầng. Thang máy đang ở tầng mấy?",
-      "a": ["Tầng 13", "Tầng 7", "Tầng -7", "Tầng -3"],
-      "correct": 1
-    },
-    {
-      "id": 57,
-      "q": "Tính giá trị của biểu thức A = x - 5 tại x = 2",
-      "a": ["-3", "3", "7", "-7"],
-      "correct": 0
-    },
-    {
-      "id": 58,
-      "q": "Kết quả của phép tính: 123 + (-123)",
-      "a": ["246", "0", "-246", "1"],
-      "correct": 1
-    },
-    {
-      "id": 59,
-      "q": "Tính: (-9) + 9 + (-5)",
-      "a": ["-5", "5", "23", "-23"],
-      "correct": 0
-    },
-    {
-      "id": 60,
-      "q": "Số nào cộng với (-8) thì bằng 0?",
-      "a": ["-8", "0", "8", "1"],
-      "correct": 2
     }
   ]
 }
+
