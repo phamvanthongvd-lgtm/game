@@ -3,443 +3,93 @@
     {
       "id": 1,
       "q": "Tìm giá trị của \\frac{3}{5} của 50 mét:",
-      "a": [
-        "30 m",
-        "10 m",
-        "250 m",
-        "15 m"
-      ],
+      "a": ["30 m", "10 m", "250 m", "15 m"],
       "correct": 0
     },
     {
       "id": 2,
       "q": "Tìm giá trị của \\frac{3}{4} của 160 kg:",
-      "a": [
-        "120 kg",
-        "40 kg",
-        "480 kg",
-        "80 kg"
-      ],
+      "a": ["120 kg", "40 kg", "480 kg", "80 kg"],
       "correct": 0
     },
     {
       "id": 3,
       "q": "Tìm giá trị của \\frac{3}{2} của \\frac{1}{2} giờ:",
-      "a": [
-        "\\frac{3}{4} giờ",
-        "\\frac{1}{4} giờ",
-        "\\frac{3}{2} giờ",
-        "1 giờ"
-      ],
+      "a": ["\\frac{3}{4} giờ", "\\frac{1}{4} giờ", "\\frac{3}{2} giờ", "1 giờ"],
       "correct": 0
     },
     {
       "id": 4,
       "q": "Tìm giá trị của \\frac{5}{8} của \\frac{1}{3} ngày:",
-      "a": [
-        "\\frac{5}{24} ngày",
-        "\\frac{8}{15} ngày",
-        "\\frac{5}{11} ngày",
-        "\\frac{1}{24} ngày"
-      ],
+      "a": ["\\frac{5}{24} ngày", "\\frac{8}{15} ngày", "\\frac{5}{11} ngày", "\\frac{1}{24} ngày"],
       "correct": 0
     },
     {
       "id": 5,
       "q": "Một quả cam nặng 300 g. Hỏi \\frac{3}{4} quả cam đó nặng bao nhiêu gam?",
-      "a": [
-        "225 g",
-        "100 g",
-        "400 g",
-        "150 g"
-      ],
+      "a": ["225 g", "100 g", "400 g", "150 g"],
       "correct": 0
     },
     {
       "id": 6,
       "q": "Bạn Lan có 32 viên bi. Số bi xanh chiếm \\frac{3}{8} tổng số bi. Lan có bao nhiêu viên bi xanh?",
-      "a": [
-        "12 viên",
-        "8 viên",
-        "4 viên",
-        "20 viên"
-      ],
+      "a": ["12 viên", "8 viên", "4 viên", "20 viên"],
       "correct": 0
     },
     {
       "id": 7,
       "q": "Bạn Lan có 32 viên bi. Số bi vàng chiếm \\frac{1}{4} tổng số bi. Lan có bao nhiêu viên bi vàng?",
-      "a": [
-        "8 viên",
-        "4 viên",
-        "12 viên",
-        "16 viên"
-      ],
+      "a": ["8 viên", "4 viên", "12 viên", "16 viên"],
       "correct": 0
     },
     {
       "id": 8,
       "q": "Một lớp học có 45 học sinh. Số học sinh trung bình chiếm \\frac{7}{15} số học sinh cả lớp. Số học sinh trung bình là:",
-      "a": [
-        "21 học sinh",
-        "3 học sinh",
-        "15 học sinh",
-        "30 học sinh"
-      ],
+      "a": ["21 học sinh", "3 học sinh", "15 học sinh", "30 học sinh"],
       "correct": 0
     },
     {
       "id": 9,
       "q": "Trên đĩa có 25 quả táo. Mai ăn \\frac{1}{5} số táo đó. Số táo Mai đã ăn là:",
-      "a": [
-        "5 quả",
-        "1 quả",
-        "10 quả",
-        "20 quả"
-      ],
+      "a": ["5 quả", "1 quả", "10 quả", "20 quả"],
       "correct": 0
     },
     {
       "id": 10,
       "q": "Một cửa hàng có cuộn vải dài 100 m. Ngày thứ nhất bán được \\frac{3}{10} cuộn vải. Số mét vải bán được trong ngày thứ nhất là:",
-      "a": [
-        "30 m",
-        "10 m",
-        "70 m",
-        "3 m"
-      ],
+      "a": ["30 m", "10 m", "70 m", "3 m"],
       "correct": 0
     },
+
     {
       "id": 11,
       "q": "Một bồn xăng chứa 800 lít xăng. Lần thứ nhất người ta lấy đi \\frac{2}{5} số xăng. Số xăng lấy đi lần đầu là:",
-      "a": [
-        "320 lít",
-        "160 lít",
-        "400 lít",
-        "480 lít"
-      ],
+      "a": ["320 lít", "160 lít", "400 lít", "480 lít"],
       "correct": 0
     },
     {
       "id": 12,
       "q": "Khối 6 có 120 học sinh. Số học sinh lớp 6A chiếm \\frac{7}{20} số học sinh cả khối. Lớp 6A có số học sinh là:",
-      "a": [
-        "42 học sinh",
-        "6 học sinh",
-        "35 học sinh",
-        "40 học sinh"
-      ],
+      "a": ["42 học sinh", "6 học sinh", "35 học sinh", "40 học sinh"],
       "correct": 0
     },
     {
       "id": 13,
       "q": "Lớp 6A có 42 học sinh. Số học sinh lớp 6B bằng \\frac{20}{21} số học sinh lớp 6A. Số học sinh lớp 6B là:",
-      "a": [
-        "40 học sinh",
-        "2 học sinh",
-        "41 học sinh",
-        "38 học sinh"
-      ],
+      "a": ["40 học sinh", "2 học sinh", "41 học sinh", "38 học sinh"],
       "correct": 0
     },
     {
       "id": 14,
       "q": "Bác nông dân thu hoạch 30 kg cà chua. Bác đem \\frac{4}{5} số cà chua đi bán. Số cà chua bác bán là:",
-      "a": [
-        "24 kg",
-        "6 kg",
-        "20 kg",
-        "25 kg"
-      ],
+      "a": ["24 kg", "6 kg", "20 kg", "25 kg"],
       "correct": 0
     },
     {
       "id": 15,
       "q": "Một bể cá có chiều cao 20 cm. Lượng nước trong bể cao bằng \\frac{3}{4} chiều cao của bể. Chiều cao của mực nước là:",
-      "a": [
-        "15 cm",
-        "5 cm",
-        "10 cm",
-        "12 cm"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 16,
-      "q": "Một túi kẹo có 35 chiếc. Số kẹo bọc giấy màu đỏ chiếm \\frac{3}{5} số kẹo trong túi. Số kẹo đỏ là:",
-      "a": [
-        "21 chiếc",
-        "7 chiếc",
-        "15 chiếc",
-        "20 chiếc"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 17,
-      "q": "Tìm \\frac{2}{3} của -5:",
-      "a": [
-        "\\frac{-10}{3}",
-        "\\frac{-15}{2}",
-        "\\frac{10}{3}",
-        "\\frac{-5}{3}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 18,
-      "q": "Tìm \\frac{2}{3} của \\frac{6}{5}:",
-      "a": [
-        "\\frac{4}{5}",
-        "\\frac{12}{15}",
-        "\\frac{18}{10}",
-        "\\frac{2}{5}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 19,
-      "q": "Ngày thứ nhất Đào đọc \\frac{1}{4} số trang của quyển sách. Nếu quyển sách có 160 trang thì ngày thứ nhất Đào đọc được:",
-      "a": [
-        "40 trang",
-        "120 trang",
-        "80 trang",
-        "20 trang"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 20,
-      "q": "Một tủ sách có 180 cuốn. Số sách ngăn thứ hai bằng \\frac{2}{3} số sách ngăn thứ nhất. Nếu ngăn thứ nhất có 72 cuốn thì ngăn thứ hai có:",
-      "a": [
-        "48 cuốn",
-        "24 cuốn",
-        "108 cuốn",
-        "36 cuốn"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 21,
-      "q": "Tìm một số x, biết \\frac{3}{7} của x là 27:",
-      "a": [
-        "63",
-        "\\frac{81}{7}",
-        "9",
-        "49"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 22,
-      "q": "Tìm một số x, biết \\frac{4}{5} của x là \\frac{-9}{2}:",
-      "a": [
-        "\\frac{-45}{8}",
-        "\\frac{-18}{5}",
-        "\\frac{-36}{10}",
-        "\\frac{45}{8}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 23,
-      "q": "Tìm một số x, biết \\frac{11}{12} của x là \\frac{9}{8}:",
-      "a": [
-        "\\frac{27}{22}",
-        "\\frac{33}{32}",
-        "\\frac{99}{96}",
-        "\\frac{22}{27}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 24,
-      "q": "Tìm một số x, biết \\frac{5}{6} của x là \\frac{-1}{2}:",
-      "a": [
-        "\\frac{-3}{5}",
-        "\\frac{-5}{12}",
-        "\\frac{-6}{10}",
-        "\\frac{3}{5}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 25,
-      "q": "Biết \\frac{2}{3} quả dưa hấu nặng \\frac{9}{2} kg. Quả dưa hấu đó nặng bao nhiêu kg?",
-      "a": [
-        "\\frac{27}{4} kg",
-        "3 kg",
-        "\\frac{18}{6} kg",
-        "9 kg"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 26,
-      "q": "Lớp 6A có 15 học sinh giỏi, chiếm \\frac{1}{3} tổng số học sinh cả lớp. Tổng số học sinh lớp 6A là:",
-      "a": [
-        "45 học sinh",
-        "5 học sinh",
-        "30 học sinh",
-        "60 học sinh"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 27,
-      "q": "Lớp Oanh có 18 bạn nữ, chiếm \\frac{2}{3} số học sinh cả lớp. Số học sinh cả lớp Oanh là:",
-      "a": [
-        "27 học sinh",
-        "12 học sinh",
-        "36 học sinh",
-        "54 học sinh"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 28,
-      "q": "Biết \\frac{2}{3} số tuổi của Mai cách đây 3 năm là 6 tuổi. Tuổi của Mai khi đó là:",
-      "a": [
-        "9 tuổi",
-        "4 tuổi",
-        "12 tuổi",
-        "18 tuổi"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 29,
-      "q": "Lớp 6A có 15 học sinh xếp loại trung bình, chiếm \\frac{5}{16} số học sinh cả lớp. Số học sinh lớp 6A là:",
-      "a": [
-        "48 học sinh",
-        "3 học sinh",
-        "75 học sinh",
-        "32 học sinh"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 30,
-      "q": "Một người bán trứng, sau khi bán \\frac{5}{8} số trứng thì còn lại 21 quả. Tổng số trứng người đó mang đi bán là:",
-      "a": [
-        "56 quả",
-        "33,6 quả",
-        "13 quả",
-        "64 quả"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 31,
-      "q": "Tìm x biết \\frac{3}{4} của x là -5:",
-      "a": [
-        "\\frac{-20}{3}",
-        "\\frac{-15}{4}",
-        "\\frac{20}{3}",
-        "\\frac{-15}{3}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 32,
-      "q": "Tìm x biết \\frac{3}{4} của x là \\frac{5}{6}:",
-      "a": [
-        "\\frac{10}{9}",
-        "\\frac{15}{24}",
-        "\\frac{5}{8}",
-        "\\frac{20}{18}"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 33,
-      "q": "Bạn Thanh rót sữa từ một hộp đầy vào cốc 180 ml. Lượng sữa trong hộp còn lại \\frac{4}{5} dung tích hộp. Dung tích hộp sữa là:",
-      "a": [
-        "900 ml",
-        "720 ml",
-        "36 ml",
-        "225 ml"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 34,
-      "q": "Số đậu đũa vừa thu hoạch bằng \\frac{3}{4} số đậu hiện có trong vườn. Nếu số thu hoạch được là 12 kg thì số đậu hiện có trong vườn là:",
-      "a": [
-        "16 kg",
-        "9 kg",
-        "48 kg",
-        "36 kg"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 35,
-      "q": "Tìm một số biết \\frac{1}{2} của nó là 18:",
-      "a": [
-        "36",
-        "9",
-        "18",
-        "54"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 36,
-      "q": "Nếu \\frac{1}{4} số trang của một quyển sách là 40 trang thì quyển sách đó dày bao nhiêu trang?",
-      "a": [
-        "160 trang",
-        "10 trang",
-        "80 trang",
-        "120 trang"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 37,
-      "q": "Sau khi bán đi \\frac{3}{7} số cam, người đó còn lại 48 quả. Số cam ban đầu là:",
-      "a": [
-        "84 quả",
-        "112 quả",
-        "36 quả",
-        "64 quả"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 38,
-      "q": "Nga đọc ngày thứ hai được \\frac{2}{3} số trang còn lại của quyển sách. Nếu số trang ngày thứ ba đọc nốt là 30 trang thì số trang còn lại sau ngày thứ nhất là:",
-      "a": [
-        "90 trang",
-        "20 trang",
-        "60 trang",
-        "45 trang"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 39,
-      "q": "Biết \\frac{3}{10} số học sinh một lớp là 12 học sinh. Số học sinh của lớp đó là:",
-      "a": [
-        "40 học sinh",
-        "36 học sinh",
-        "4 học sinh",
-        "120 học sinh"
-      ],
-      "correct": 0
-    },
-    {
-      "id": 40,
-      "q": "Biết \\frac{1}{3} số tiền của An là 20.000 đồng. Số tiền An có là:",
-      "a": [
-        "60.000 đồng",
-        "40.000 đồng",
-        "20.000 đồng",
-        "80.000 đồng"
-      ],
+      "a": ["15 cm", "5 cm", "10 cm", "12 cm"],
       "correct": 0
     }
   ]
 }
-
