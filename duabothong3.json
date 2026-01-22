@@ -2,93 +2,242 @@
   "questions": [
     {
       "id": 1,
-      "q": "Tìm giá trị của \\frac{3}{5} của 50 mét:",
+      "q": "Tìm giá trị của $\\dfrac{3}{5}$ của 50 mét:",
       "a": ["30 m", "10 m", "250 m", "15 m"],
       "correct": 0
     },
     {
       "id": 2,
-      "q": "Tìm giá trị của \\frac{3}{4} của 160 kg:",
+      "q": "Tìm giá trị của $\\dfrac{3}{4}$ của 160 kg:",
       "a": ["120 kg", "40 kg", "480 kg", "80 kg"],
       "correct": 0
     },
     {
       "id": 3,
-      "q": "Tìm giá trị của \\frac{3}{2} của \\frac{1}{2} giờ:",
-      "a": ["\\frac{3}{4} giờ", "\\frac{1}{4} giờ", "\\frac{3}{2} giờ", "1 giờ"],
+      "q": "Tìm giá trị của $\\dfrac{3}{2}$ của $\\dfrac{1}{2}$ giờ:",
+      "a": ["$\\dfrac{3}{4}$ giờ", "$\\dfrac{1}{4}$ giờ", "$\\dfrac{3}{2}$ giờ", "1 giờ"],
       "correct": 0
     },
     {
       "id": 4,
-      "q": "Tìm giá trị của \\frac{5}{8} của \\frac{1}{3} ngày:",
-      "a": ["\\frac{5}{24} ngày", "\\frac{8}{15} ngày", "\\frac{5}{11} ngày", "\\frac{1}{24} ngày"],
+      "q": "Tìm giá trị của $\\dfrac{5}{8}$ của $\\dfrac{1}{3}$ ngày:",
+      "a": ["$\\dfrac{5}{24}$ ngày", "$\\dfrac{8}{15}$ ngày", "$\\dfrac{5}{11}$ ngày", "$\\dfrac{1}{24}$ ngày"],
       "correct": 0
     },
     {
       "id": 5,
-      "q": "Một quả cam nặng 300 g. Hỏi \\frac{3}{4} quả cam đó nặng bao nhiêu gam?",
+      "q": "Một quả cam nặng 300 g. Hỏi $\\dfrac{3}{4}$ quả cam đó nặng bao nhiêu gam?",
       "a": ["225 g", "100 g", "400 g", "150 g"],
       "correct": 0
     },
     {
       "id": 6,
-      "q": "Bạn Lan có 32 viên bi. Số bi xanh chiếm \\frac{3}{8} tổng số bi. Lan có bao nhiêu viên bi xanh?",
+      "q": "Bạn Lan có 32 viên bi. Số bi xanh chiếm $\\dfrac{3}{8}$ tổng số bi. Lan có bao nhiêu viên bi xanh?",
       "a": ["12 viên", "8 viên", "4 viên", "20 viên"],
       "correct": 0
     },
     {
       "id": 7,
-      "q": "Bạn Lan có 32 viên bi. Số bi vàng chiếm \\frac{1}{4} tổng số bi. Lan có bao nhiêu viên bi vàng?",
+      "q": "Bạn Lan có 32 viên bi. Số bi vàng chiếm $\\dfrac{1}{4}$ tổng số bi. Lan có bao nhiêu viên bi vàng?",
       "a": ["8 viên", "4 viên", "12 viên", "16 viên"],
       "correct": 0
     },
     {
       "id": 8,
-      "q": "Một lớp học có 45 học sinh. Số học sinh trung bình chiếm \\frac{7}{15} số học sinh cả lớp. Số học sinh trung bình là:",
+      "q": "Một lớp học có 45 học sinh. Số học sinh trung bình chiếm $\\dfrac{7}{15}$ số học sinh cả lớp. Số học sinh trung bình là:",
       "a": ["21 học sinh", "3 học sinh", "15 học sinh", "30 học sinh"],
       "correct": 0
     },
     {
       "id": 9,
-      "q": "Trên đĩa có 25 quả táo. Mai ăn \\frac{1}{5} số táo đó. Số táo Mai đã ăn là:",
+      "q": "Trên đĩa có 25 quả táo. Mai ăn $\\dfrac{1}{5}$ số táo đó. Số táo Mai đã ăn là:",
       "a": ["5 quả", "1 quả", "10 quả", "20 quả"],
       "correct": 0
     },
     {
       "id": 10,
-      "q": "Một cửa hàng có cuộn vải dài 100 m. Ngày thứ nhất bán được \\frac{3}{10} cuộn vải. Số mét vải bán được trong ngày thứ nhất là:",
+      "q": "Một cửa hàng có cuộn vải dài 100 m. Ngày thứ nhất bán được $\\dfrac{3}{10}$ cuộn vải. Số mét vải bán được trong ngày thứ nhất là:",
       "a": ["30 m", "10 m", "70 m", "3 m"],
       "correct": 0
     },
-
     {
       "id": 11,
-      "q": "Một bồn xăng chứa 800 lít xăng. Lần thứ nhất người ta lấy đi \\frac{2}{5} số xăng. Số xăng lấy đi lần đầu là:",
+      "q": "Một bồn xăng chứa 800 lít xăng. Lần thứ nhất người ta lấy đi $\\dfrac{2}{5}$ số xăng. Số xăng lấy đi lần đầu là:",
       "a": ["320 lít", "160 lít", "400 lít", "480 lít"],
       "correct": 0
     },
     {
       "id": 12,
-      "q": "Khối 6 có 120 học sinh. Số học sinh lớp 6A chiếm \\frac{7}{20} số học sinh cả khối. Lớp 6A có số học sinh là:",
+      "q": "Khối 6 có 120 học sinh. Số học sinh lớp 6A chiếm $\\dfrac{7}{20}$ số học sinh cả khối. Lớp 6A có số học sinh là:",
       "a": ["42 học sinh", "6 học sinh", "35 học sinh", "40 học sinh"],
       "correct": 0
     },
     {
       "id": 13,
-      "q": "Lớp 6A có 42 học sinh. Số học sinh lớp 6B bằng \\frac{20}{21} số học sinh lớp 6A. Số học sinh lớp 6B là:",
+      "q": "Lớp 6A có 42 học sinh. Số học sinh lớp 6B bằng $\\dfrac{20}{21}$ số học sinh lớp 6A. Số học sinh lớp 6B là:",
       "a": ["40 học sinh", "2 học sinh", "41 học sinh", "38 học sinh"],
       "correct": 0
     },
     {
       "id": 14,
-      "q": "Bác nông dân thu hoạch 30 kg cà chua. Bác đem \\frac{4}{5} số cà chua đi bán. Số cà chua bác bán là:",
+      "q": "Bác nông dân thu hoạch 30 kg cà chua. Bác đem $\\dfrac{4}{5}$ số cà chua đi bán. Số cà chua bác bán là:",
       "a": ["24 kg", "6 kg", "20 kg", "25 kg"],
       "correct": 0
     },
     {
       "id": 15,
-      "q": "Một bể cá có chiều cao 20 cm. Lượng nước trong bể cao bằng \\frac{3}{4} chiều cao của bể. Chiều cao của mực nước là:",
+      "q": "Một bể cá có chiều cao 20 cm. Lượng nước trong bể cao bằng $\\dfrac{3}{4}$ chiều cao của bể. Chiều cao của mực nước là:",
       "a": ["15 cm", "5 cm", "10 cm", "12 cm"],
+      "correct": 0
+    },
+    {
+      "id": 16,
+      "q": "Mẹ có 200.000 đồng, mẹ cho Lan $\\dfrac{2}{5}$ số tiền đó. Lan nhận được bao nhiêu tiền?",
+      "a": ["80.000 đồng", "40.000 đồng", "100.000 đồng", "120.000 đồng"],
+      "correct": 0
+    },
+    {
+      "id": 17,
+      "q": "Một quyển sách dày 150 trang. Nam đã đọc được $\\dfrac{2}{3}$ quyển sách. Nam đã đọc được bao nhiêu trang?",
+      "a": ["100 trang", "50 trang", "75 trang", "120 trang"],
+      "correct": 0
+    },
+    {
+      "id": 18,
+      "q": "Diện tích một khu vườn là 400 $m^2$. Người ta dùng $\\dfrac{5}{8}$ diện tích để trồng hoa. Diện tích trồng hoa là:",
+      "a": ["250 $m^2$", "150 $m^2$", "200 $m^2$", "300 $m^2$"],
+      "correct": 0
+    },
+    {
+      "id": 19,
+      "q": "Tìm $\\dfrac{4}{9}$ của 81 quả bóng:",
+      "a": ["36 quả", "9 quả", "45 quả", "32 quả"],
+      "correct": 0
+    },
+    {
+      "id": 20,
+      "q": "Một giờ có 60 phút. Vậy $\\dfrac{3}{10}$ giờ là bao nhiêu phút?",
+      "a": ["18 phút", "6 phút", "30 phút", "20 phút"],
+      "correct": 0
+    },
+    {
+      "id": 21,
+      "q": "Một thùng sữa có 48 hộp. Nhà Lan đã uống hết $\\dfrac{1}{4}$ thùng. Nhà Lan đã uống bao nhiêu hộp sữa?",
+      "a": ["12 hộp", "8 hộp", "16 hộp", "24 hộp"],
+      "correct": 0
+    },
+    {
+      "id": 22,
+      "q": "Tìm $\\dfrac{2}{7}$ của 140 kg gạo:",
+      "a": ["40 kg", "20 kg", "70 kg", "60 kg"],
+      "correct": 0
+    },
+    {
+      "id": 23,
+      "q": "Quãng đường AB dài 120 km. Ô tô đã đi được $\\dfrac{5}{6}$ quãng đường. Ô tô đã đi được bao nhiêu km?",
+      "a": ["100 km", "20 km", "80 km", "110 km"],
+      "correct": 0
+    },
+    {
+      "id": 24,
+      "q": "Khối lượng một bao xi măng là 50 kg. Lượng xi măng đã dùng là $\\dfrac{11}{25}$ bao. Khối lượng xi măng đã dùng là:",
+      "a": ["22 kg", "11 kg", "25 kg", "33 kg"],
+      "correct": 0
+    },
+    {
+      "id": 25,
+      "q": "Một mảnh đất hình chữ nhật có chiều dài 30 m. Chiều rộng bằng $\\dfrac{2}{3}$ chiều dài. Chiều rộng mảnh đất là:",
+      "a": ["20 m", "10 m", "15 m", "25 m"],
+      "correct": 0
+    },
+    {
+      "id": 26,
+      "q": "Tìm giá trị của $\\dfrac{7}{10}$ của 1 kg (đổi ra gam):",
+      "a": ["700 g", "70 g", "100 g", "300 g"],
+      "correct": 0
+    },
+    {
+      "id": 27,
+      "q": "Một đội công nhân phải sửa 240 m đường. Đội đã sửa được $\\dfrac{3}{8}$ quãng đường đó. Đội đã sửa được bao nhiêu mét?",
+      "a": ["90 m", "30 m", "80 m", "120 m"],
+      "correct": 0
+    },
+    {
+      "id": 28,
+      "q": "Một năm có 12 tháng. Vậy $\\dfrac{3}{4}$ năm có bao nhiêu tháng?",
+      "a": ["9 tháng", "3 tháng", "4 tháng", "6 tháng"],
+      "correct": 0
+    },
+    {
+      "id": 29,
+      "q": "Tìm $\\dfrac{13}{20}$ của 400 học sinh:",
+      "a": ["260 học sinh", "20 học sinh", "130 học sinh", "200 học sinh"],
+      "correct": 0
+    },
+    {
+      "id": 30,
+      "q": "Một chiếc bánh chưng nặng 800 g. Lan ăn $\\dfrac{1}{8}$ chiếc bánh. Khối lượng bánh Lan đã ăn là:",
+      "a": ["100 g", "80 g", "200 g", "50 g"],
+      "correct": 0
+    },
+    {
+      "id": 31,
+      "q": "Tìm $\\dfrac{5}{12}$ của một ngày (đổi ra giờ):",
+      "a": ["10 giờ", "5 giờ", "12 giờ", "2 giờ"],
+      "correct": 0
+    },
+    {
+      "id": 32,
+      "q": "Số học sinh giỏi của lớp 6C là 15 em, chiếm $\\dfrac{1}{3}$ số học sinh cả lớp. Hỏi lớp 6C có bao nhiêu học sinh? (Lưu ý: Tìm một số khi biết giá trị phân số của nó)",
+      "a": ["45 học sinh", "30 học sinh", "15 học sinh", "5 học sinh"],
+      "correct": 0
+    },
+    {
+      "id": 33,
+      "q": "Tìm $\\dfrac{4}{5}$ của 250 lít dầu:",
+      "a": ["200 lít", "50 lít", "150 lít", "220 lít"],
+      "correct": 0
+    },
+    {
+      "id": 34,
+      "q": "Một rổ cam có 40 quả. $\\dfrac{2}{5}$ số cam trong rổ là bao nhiêu quả?",
+      "a": ["16 quả", "8 quả", "20 quả", "10 quả"],
+      "correct": 0
+    },
+    {
+      "id": 35,
+      "q": "Tìm $\\dfrac{9}{10}$ của 500.000 đồng:",
+      "a": ["450.000 đồng", "50.000 đồng", "400.000 đồng", "490.000 đồng"],
+      "correct": 0
+    },
+    {
+      "id": 36,
+      "q": "Một chai nước có dung tích 500 ml. Lượng nước trong chai còn $\\dfrac{3}{5}$ dung tích. Lượng nước còn lại là:",
+      "a": ["300 ml", "200 ml", "100 ml", "250 ml"],
+      "correct": 0
+    },
+    {
+      "id": 37,
+      "q": "Tìm $\\dfrac{1}{6}$ của 360 độ:",
+      "a": ["60 độ", "30 độ", "90 độ", "120 độ"],
+      "correct": 0
+    },
+    {
+      "id": 38,
+      "q": "Một tấm vải dài 60 m. Người ta cắt đi $\\dfrac{1}{3}$ tấm vải. Chiều dài phần vải còn lại là:",
+      "a": ["40 m", "20 m", "30 m", "50 m"],
+      "correct": 0
+    },
+    {
+      "id": 39,
+      "q": "Tìm $\\dfrac{2}{3}$ của $\\dfrac{9}{10}$ kg:",
+      "a": ["$\\dfrac{3}{5}$ kg", "$\\dfrac{1}{5}$ kg", "$\\dfrac{2}{10}$ kg", "$\\dfrac{6}{10}$ kg"],
+      "correct": 0
+    },
+    {
+      "id": 40,
+      "q": "Số học sinh nữ lớp 6D là 24 em, chiếm $\\dfrac{3}{5}$ số học sinh cả lớp. Tổng số học sinh lớp 6D là:",
+      "a": ["40 học sinh", "36 học sinh", "48 học sinh", "30 học sinh"],
       "correct": 0
     }
   ]
